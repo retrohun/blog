@@ -2,7 +2,7 @@
 
 Some rights reserved! Vintage technology preserved.
 
-Previous | [Back to blog](../) | Next
+Previous | [Back to blog](../..) | Next
 --- | --- | ---
 
 ## First steps
