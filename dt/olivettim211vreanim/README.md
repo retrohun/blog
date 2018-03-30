@@ -1,8 +1,8 @@
-# Olivetti M211 reanim - Retrohun blog
+# Olivetti M211V reanim - Retrohun blog
 
 Some rights reserved! Vintage technology preserved.
 
-Previous | [Index](../../../) | Next
+Previous | [Index](../../../../) | [Next](../coherent30on286)
 --- | --- | ---
 
 ## First steps
@@ -25,5 +25,5 @@ of the HDD space and a bare MS DOS 6.22 "install" - using again fdisk and format
 The final result is here:
 ![Olivetti M211V in action](olim211v.jpg)
 
-Previous | [Index](../../../) | Next
+Previous | [Index](../../../../) | [Next](../coherent30on286)
 --- | --- | ---
