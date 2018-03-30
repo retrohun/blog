@@ -65,7 +65,7 @@ enable_sync = 0
 
 [Joysticks]
 joystick_0_nr = 0
- joystick_1_nr = 0'''
+joystick_1_nr = 0
 ```
 
 Note that the install media is in 5.25\" HD format, so installation could be tricky on other virtual platforms. Due to the free release of the sources, I dag in it for a while to create a custom serial number - which is _13050000_.
