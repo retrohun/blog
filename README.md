@@ -7,5 +7,6 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Philips PCL 101 reanim](dt/philipspcl101reanim)
 - [Coherent 3.0 on 286](dt/coherent30on286)
 - [Olivetti M211V reanim](dt/olivettim211vreanim)

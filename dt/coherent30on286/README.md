@@ -2,7 +2,7 @@
 
 Some rights reserved! Vintage technology preserved.
 
-[Previous](../olivettim211vreanim) | [Index](../../../../) | Next
+[Previous](../olivettim211vreanim) | [Index](../../../../) | [Next](../philipspcl101reanim)
 --- | --- | ---
 
 ## Mark Williams
@@ -68,7 +68,7 @@ joystick_0_nr = 0
 joystick_1_nr = 0
 ```
 
-Note that the install media is in 5.25\" HD format, so installation could be tricky on other virtual platforms. Due to the free release of the sources, I dag in it for a while to create a custom serial number - which is _13050000_.
+Note that the install media is in 5.25\" HD format, so installation could be tricky on other virtual platforms. Due to the free release of the sources, I dag in it for a while to create a custom serial number - which is _130500000_.
 
 Compiled PCEM v\*12 from sources and used the config file above, the hard disc image was created with dd. Also created a 1440k floppy disc image in order to make a live-floppy distribution for 80286.
 
@@ -89,5 +89,5 @@ Coherent 3.0 can support only a small number of HD controllers and disk sizes, s
 ## Reward
 Is not cheese, download the floppy image from here: [coherent3live144.img](coherent3live144.img)
 
-[Previous](../olivettim211vreanim) | [Index](../../../../) | Next
+[Previous](../olivettim211vreanim) | [Index](../../../../) | [Next](../philipspcl101reanim)
 --- | --- | ---
