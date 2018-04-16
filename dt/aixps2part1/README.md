@@ -2,7 +2,7 @@
 
 Some rights reserved! Vintage technology preserved.
 
-[Previous](../philipspcl101reanim) | [Index](../../../../) | Next
+[Previous](../philipspcl101reanim) | [Index](../../../../) | [Next](../toshibat3100fun)
 --- | --- | ---
 
 ## What is it?
@@ -22,5 +22,5 @@ Networking: SLIP can be coonfigured in Bochs, and tested well around 2012.
 ## A good summary of the installation process
 Was made by LGee: [sites.google.com/site/rhdisk0/unix/aix/aixps2](https://sites.google.com/site/rhdisk0/unix/aix/aixps2)
 
-[Previous](../philipspcl101reanim) | [Index](../../../../) | Next
+[Previous](../philipspcl101reanim) | [Index](../../../../) | [Next](../toshibat3100fun)
 --- | --- | ---
