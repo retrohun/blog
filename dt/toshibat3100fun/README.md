@@ -2,7 +2,7 @@
 
 Some rights reserved! Vintage technology preserved.
 
-[Previous](../aixps2part1) | [Index](../../../../) | Next
+[Previous](../aixps2part1) | [Index](../../../../) | [Next](../xenix286ondemand)
 --- | --- | ---
 
 ## In medias res
@@ -23,5 +23,5 @@ Cleanup, cmos battery check, reinstall, ISA bus test is on the list.
 ## Other sources about these hardware
 On [Wikipedia](https://en.wikipedia.org/wiki/Toshiba_T3100), for example.
 
-[Previous](../aixps2part1) | [Index](../../../../) | Next
+[Previous](../aixps2part1) | [Index](../../../../) | [Next](../xenix286ondemand)
 --- | --- | ---

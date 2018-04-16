@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Xenix286 on demand](dt/xenix286ondemand)
 - [Toshiba T3100 fun](dt/toshibat3100fun)
 - [AIX/PS2 - part 1](dt/aixps2part1)
 - [Philips PCL 101 reanim](dt/philipspcl101reanim)
