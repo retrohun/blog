@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Amiga 2000 et al](dt/amiga2000etal)
 - [Xenix286 on demand](dt/xenix286ondemand)
 - [Toshiba T3100 fun](dt/toshibat3100fun)
 - [AIX/PS2 - part 1](dt/aixps2part1)

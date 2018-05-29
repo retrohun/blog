@@ -2,7 +2,7 @@
 
 Some rights reserved! Vintage technology preserved.
 
-[Previous](../toshibat3100fun) | [Index](../../../../) | Next
+[Previous](../toshibat3100fun) | [Index](../../../../) | [Next](../amiga2000etal)
 --- | --- | ---
 
 ## Unix-x86 ports from the past
@@ -75,5 +75,5 @@ Was made by Neozeed:
 
 Neozeed! And do not forget to try games in /usr/games folder! One of my favourite is "mind", a mastermind implementation. Some of them still could be addictive despite their age.
 
-[Previous](../toshibat3100fun) | [Index](../../../../) | Next
+[Previous](../toshibat3100fun) | [Index](../../../../) | [Next](../amiga2000etal)
 --- | --- | ---
