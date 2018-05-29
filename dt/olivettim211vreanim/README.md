@@ -23,6 +23,7 @@ boot sector, which parameters was hardcoded. Unfortunately, after the "..." Free
 Instead of making an Int 13H hook loaded from the first 17 sectors, gave up in order to waste around 75%
 of the HDD space and a bare MS DOS 6.22 "install" - using again fdisk and format only - worked as a charm.
 The final result is here:
+
 ![Olivetti M211V in action](olim211v.jpg)
 
 Previous | [Index](../../../../) | [Next](../coherent30on286)

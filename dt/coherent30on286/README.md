@@ -80,10 +80,12 @@ Creating a 1.44M boot floppy was somewhat tricky. There are floppy/hard disk boo
 There are several good docs and QnAs around, which clarifies the correct order of dd-ing the boot sector, mkfs, fsck and copying the folders *and* patching the kernel on the destination floppy. Well, almost. The patching is needed to denote the correct root device major/minor numbers in it, which is different on hdd, on 1.44M fdd, or on other floppy formats! Needs modification of two variables, the hint was to find 4,15 pairs and replace them to 4,14. Or vica versa, one is 1.2M and the other is 1.44M.
 
 PCEM is booting Coherent here:
+
 ![Coherent 3.0/286 in PCEM](20171201coherent3on20mhddtype2.png)
 
 ## Caveats
 Coherent 3.0 can support only a small number of HD controllers and disk sizes, so the live floppy IRL tested only on a diskless 80486 laptop:
+
 ![Coherent 3.0/286 on a dec 486 portable](dec486coherent.jpg)
 
 ## Reward
