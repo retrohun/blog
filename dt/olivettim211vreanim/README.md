@@ -2,8 +2,12 @@
 
 Some rights reserved! Vintage technology preserved.
 
+---
+
 Previous | [Index](../../../../) | [Next](../coherent30on286)
 --- | --- | ---
+
+---
 
 ## First steps
 This beast survived nearly 30 years. This lifeform is a 80286 based portable.
@@ -25,6 +29,8 @@ of the HDD space and a bare MS DOS 6.22 "install" - using again fdisk and format
 The final result is here:
 
 ![Olivetti M211V in action](olim211v.jpg)
+
+---
 
 Previous | [Index](../../../../) | [Next](../coherent30on286)
 --- | --- | ---

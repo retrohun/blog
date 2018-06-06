@@ -2,8 +2,12 @@
 
 Some rights reserved! Vintage technology preserved.
 
+---
+
 [Previous](../coherent30on286) | [Index](../../../../) | [Next](../aixps2part1)
 --- | --- | ---
+
+---
 
 ## First steps
 A 80C86A based laptop had been purchased in an unknown condition. Suffered from multiple errors, and thanksfully fixed
@@ -18,6 +22,8 @@ The ROM DOS version is MSDOS v3.31. COMMAND.COM size is exactly same as of the 3
 
 ## To be continued?
 Yes. Stay tooned!
+
+---
 
 [Previous](../coherent30on286) | [Index](../../../../) | [Next](../aixps2part1)
 --- | --- | ---

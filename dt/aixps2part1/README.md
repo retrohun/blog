@@ -2,8 +2,12 @@
 
 Some rights reserved! Vintage technology preserved.
 
+---
+
 [Previous](../philipspcl101reanim) | [Index](../../../../) | [Next](../toshibat3100fun)
 --- | --- | ---
+
+---
 
 ## What is it?
 This is an intel i386+ port of the operating system [AIX](https://en.wikipedia.org/wiki/IBM_AIX#IBM_PS/2_series).

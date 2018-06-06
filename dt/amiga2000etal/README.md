@@ -2,8 +2,12 @@
 
 Some rights reserved! Vintage technology preserved.
 
-[Previous](../xenix286ondemand) | [Index](../../../../) | Next
+---
+
+[Previous](../xenix286ondemand) | [Index](../../../../) | [Next](../pcem14vsqnxdemo)
 --- | --- | ---
+
+---
 
 ## Without form and void
 We own some m68000-based lifeforms since decade(s), but our first (and last?)
@@ -77,5 +81,7 @@ The C/H/S geometry that is used in real was 306/2/17, an 5MB vintage uncommon ha
 There is a new [FreeDOS](http://www.freedos.org/) platform also with a new mTCP platform - despite reported by Mike recalling his memories, mTCP had already been tested with Janus successfully almost a decade ago, but hey, this is the first time for a real physical storage-less installation of Janus from scratch!
 For the rest, I also made some patches to [Hampa Hug's pce-ibmpc emulator](http://hampa.ch/pce), added correctly(?) the MAKEAB vhd format, tested well, but our changes are unmerged yet. Being somewhat irrelevant, I also extended pce-ibmpc PCM tape support with custom sampling integer frequencies that must divide 44100Hz due to my incompetence :P :) 
 
-[Previous](../xenix286ondemand) | [Index](../../../../) | Next
+---
+
+[Previous](../xenix286ondemand) | [Index](../../../../) | [Next](../pcem14vsqnxdemo)
 --- | --- | ---

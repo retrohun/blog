@@ -2,8 +2,12 @@
 
 Some rights reserved! Vintage technology preserved.
 
+---
+
 [Previous](../olivettim211vreanim) | [Index](../../../../) | [Next](../philipspcl101reanim)
 --- | --- | ---
+
+---
 
 ## Mark Williams
 There were several \*NIX ports and clones even for x86 architectures in the previous century. One company was MWC that made a clean-room implementation. What is extraordinary in this operating system that it worked on 80286 (till version 3.2) and v4.x is still used and maintained by enthusiasts despite the company closed in 1995.
@@ -90,6 +94,8 @@ Coherent 3.0 can support only a small number of HD controllers and disk sizes, s
 
 ## Reward
 Is not cheese, download the floppy image from here: [coherent3live144.img](coherent3live144.img)
+
+---
 
 [Previous](../olivettim211vreanim) | [Index](../../../../) | [Next](../philipspcl101reanim)
 --- | --- | ---

@@ -2,8 +2,12 @@
 
 Some rights reserved! Vintage technology preserved.
 
+---
+
 [Previous](../toshibat3100fun) | [Index](../../../../) | [Next](../amiga2000etal)
 --- | --- | ---
+
+---
 
 ## Unix-x86 ports from the past
 Unix v6-7, SystemIII-V, BSD unix and other flavours had been ported even to 8086 and above since those CPU-s are released + some years delay. Even Microsoft participated in the who-ports-fancier stuff competition, and the result was Xenix. Descriptions of installation of x86 port and features, kits are floating around in several good pages, especially at [os2museum.com](http://www.os2museum.com/wp/category/xenix/), [virtuallyfun.com](https://virtuallyfun.com/wordpress/category/xenix/), [gunkies.org Wiki](http://gunkies.org/wiki/Xenix) etc.
@@ -74,6 +78,8 @@ Was made by Neozeed:
 ## Thanks to
 
 Neozeed! And do not forget to try games in /usr/games folder! One of my favourite is "mind", a mastermind implementation. Some of them still could be addictive despite their age.
+
+---
 
 [Previous](../toshibat3100fun) | [Index](../../../../) | [Next](../amiga2000etal)
 --- | --- | ---
