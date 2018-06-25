@@ -3,7 +3,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../amiga2000etal) | [Index](../../../../) | Next
+[Previous](../amiga2000etal) | [Index](../../../../) | [Next](../orionadp2000info)
 --- | --- | ---
 
 ---
@@ -135,5 +135,5 @@ At the first run of guest it usually enforces entering to bios setup, so apply t
 
 ---
 
-[Previous](../amiga2000etal) | [Index](../../../../) | Next
+[Previous](../amiga2000etal) | [Index](../../../../) | [Next](../orionadp2000info)
 --- | --- | ---

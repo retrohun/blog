@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [ORION ADP-2000 info](dt/orionadp2000info)
 - [Pcem 14 vs QNX demo](dt/pcem14vsqnxdemo)
 - [Amiga 2000 et al](dt/amiga2000etal)
 - [Xenix286 on demand](dt/xenix286ondemand)
