@@ -12,7 +12,7 @@ Some rights reserved! Vintage technology preserved.
 ## Got an ORION ADP-2000 terminal
 The DB-25 CCITT port is connected to a DEC VT-510 with a nullmodem cable in order to test them. Guessed the Hungarian terminal's settings successfully.
 
-|
+ | 
 --- | ---
 **Speed** | 1200 baud
 **Data** | 7 bits
