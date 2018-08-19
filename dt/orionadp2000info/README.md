@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../pcem14vsqnxdemo) | [Index](../../../../) | Next
+[Previous](../pcem14vsqnxdemo) | [Index](../../../../) | [Next](../randomupdates1)
 --- | --- | ---
 
 ---
@@ -24,5 +24,5 @@ Later, TBD. For the impatient, internet provides: [retropages.hu/theme_46.html](
 
 ---
 
-[Previous](../pcem14vsqnxdemo) | [Index](../../../../) | Next
+[Previous](../pcem14vsqnxdemo) | [Index](../../../../) | [Next](../randomupdates1)
 --- | --- | ---
