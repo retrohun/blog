@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [QNX 2 fun](dt/qnx2fun)
 - [Random updates 1](dt/randomupdates1)
 - [ORION ADP-2000 info](dt/orionadp2000info)
 - [Pcem 14 vs QNX demo](dt/pcem14vsqnxdemo)

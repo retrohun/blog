@@ -3,7 +3,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../orionadp2000info) | [Index](../../../../) | Next
+[Previous](../orionadp2000info) | [Index](../../../../) | [Next](../qnx2fun)
 --- | --- | ---
 
 ---
@@ -56,5 +56,5 @@ The Amiga now extended with an A25000 ram expander. Unfortunately, one of the 1M
 
 ---
 
-[Previous](../orionadp2000info) | [Index](../../../../) | Next
+[Previous](../orionadp2000info) | [Index](../../../../) | [Next](../qnx2fun)
 --- | --- | ---
