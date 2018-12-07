@@ -183,7 +183,7 @@ Qemu, Virtualbox, Bochs, VMWare, [pcem](http://pcem-emulator.co.uk) are not list
 ## More QNX fun
 
 In the post of Tenox:
-![QNX Windows - First Look](https://virtuallyfun.com/wordpress/2013/03/22/the-shape-of-things-to-come/)
+[QNX Windows - First Look](https://virtuallyfun.com/wordpress/2013/03/22/the-shape-of-things-to-come/)
 
 ---
 
