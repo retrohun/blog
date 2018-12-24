@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../randomupdates1) | [Index](../../../../) | Next
+[Previous](../randomupdates1) | [Index](../../../../) | [Next](../bootingfromcom1)
 --- | --- | ---
 
 ---
@@ -187,5 +187,5 @@ In the post of Tenox:
 
 ---
 
-[Previous](../randomupdates1) | [Index](../../../../) | Next
+[Previous](../randomupdates1) | [Index](../../../../) | [Next](../bootingfromcom1)
 --- | --- | ---
