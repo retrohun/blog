@@ -3,7 +3,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../qnx2fun) | [Index](../../../../) | Next
+[Previous](../qnx2fun) | [Index](../../../../) | [Next](../bootingfromcom1part2)
 --- | --- | ---
 
 ---
@@ -104,5 +104,5 @@ The source can be both an .EXE file, or a floppy image. Simply find the first 0x
 
 ---
 
-[Previous](../qnx2fun) | [Index](../../../../) | Next
+[Previous](../qnx2fun) | [Index](../../../../) | [Next](../bootingfromcom1part2)
 --- | --- | ---

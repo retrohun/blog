@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Booting from COM1 - part 2](dt/bootingfromcom1part2)
 - [Booting from COM1](dt/bootingfromcom1)
 - [QNX 2 fun](dt/qnx2fun)
 - [Random updates 1](dt/randomupdates1)
