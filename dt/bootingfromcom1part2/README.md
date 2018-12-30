@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../bootingfromcom1) | [Index](../../../../) | [Next]
+[Previous](../bootingfromcom1) | [Index](../../../../) | [Next](../bootingfromcassette)
 --- | --- | ---
 
 ---
@@ -76,5 +76,5 @@ If one wanted to run these in pce, would obtain ibm xt and ibm rom basic rom ima
 
 ---
 
-[Previous](../bootingfromcom1) | [Index](../../../../) | [Next]
+[Previous](../bootingfromcom1) | [Index](../../../../) | [Next](../bootingfromcassette)
 --- | --- | ---
