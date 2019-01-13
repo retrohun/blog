@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Xenix tales](dt/xenixtales)
 - [Booting from cassette](dt/bootingfromcassette)
 - [Booting from COM1 - part 2](dt/bootingfromcom1part2)
 - [Booting from COM1](dt/bootingfromcom1)

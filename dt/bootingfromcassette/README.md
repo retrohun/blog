@@ -3,7 +3,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../bootingfromcom1part2) | [Index](../../../../) | [Next]
+[Previous](../bootingfromcom1part2) | [Index](../../../../) | [Next](../xenixtales)
 --- | --- | ---
 
 ---
@@ -72,5 +72,5 @@ Have fun! Hope you enjoy these games, originally met them on a C64 many decades 
 
 ---
 
-[Previous](../bootingfromcom1part2) | [Index](../../../../) | [Next]
+[Previous](../bootingfromcom1part2) | [Index](../../../../) | [Next](../xenixtales)
 --- | --- | ---
