@@ -43,11 +43,11 @@ Also it is widely known that on a Xenix system (86, 80286, 80386 etc.) there is 
 hardlink "/dev/install" created during the installation that points to the installation
 source drive. So just simply type (without leading hash prompt :)
 
- # tar tvf /dev/install|more
+    # tar tvf /dev/install|more
 
 in order to get a list of files being installed (optional), and then
 
- # tar xvf /dev/install|more
+    # tar xvf /dev/install|more
 
 to extract all of them. My favourite games from the above list are bgm (backgammon), chase (robots), mind (mastermind) and reversi. This is also interesting for the fans at least that there is a rogue build!
 
@@ -64,7 +64,7 @@ Shell scripting is a hell in xenix86 as well as in other commercial ?nix variant
 ## Xenix 386 does support QEMU's ne2k_isa interface!
 Yes, not joking! Some friend pinpointed that dlink had made several clone network interface cards for 3COM's etherlink, for AMD pcnet etc. and fortunately for NE1000/NE2000; this NIC was the forgotten DE200 - do not get confused, this is not similar to DE220! After many decades, the drivers are available even for unusual vintage systems like AT@T SysV/i386, but the most interesting part was finding the SCOXENIX/ folder in the driver archive bundle. So extracted them in an environment that supports case sensitive filesystem and tar. Of course the nonbinary(!) files in the SCOXENIX directory - the text files - needed to be converted to unix format from MSDOS format, which meant that line endings contained unnecessary 0x0d bytes, so in-place conversion oneliner
 
- perl -i -pe s/\\r//g [text file list]
+    perl -i -pe s/\\r//g [text file list]
  
 did the rest. Then saved the readme/howto textfile onto the hosts and it remained open in a text reader during the QEMU installation process.
 
@@ -74,7 +74,7 @@ Needs an installed Xenix/386 2.3.4 with latest(?) STREAMS and TCP/IP packages (1
 ### Known issues
 Routing problems from the guest: cannot connect other machines that host, but for irc clients, a socat ssl tunnel from host solved this "problem", so even freenode can be used with ircii - AT YOUR OWN RISK! :-P :-D
 
- $ socat TCP4-LISTEN:6667 TCP4:YOUR.FAVOURITE.IRCSERVERS.DOMAIN:6667
+    $ socat TCP4-LISTEN:6667 TCP4:YOUR.FAVOURITE.IRCSERVERS.DOMAIN:6667
 
 The is the launching script for a 825,16,63 chs-sized (~400MB) hdimage:
 
