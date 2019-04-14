@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../bootingfromcassette) | [Index](../../../../) | [Next]
+[Previous](../bootingfromcassette) | [Index](../../../../) | [Next](../mischardwareprojects)
 --- | --- | ---
 
 ---
@@ -132,5 +132,5 @@ Installing X11R5, Autocad for Unix, Openstack image etc. ENOTIME
 
 ---
 
-[Previous](../bootingfromcassette) | [Index](../../../../) | [Next]
+[Previous](../bootingfromcassette) | [Index](../../../../) | [Next](../mischardwareprojects)
 --- | --- | ---

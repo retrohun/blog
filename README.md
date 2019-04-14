@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Misc. hardware projects](dt/mischardwareprojects)
 - [Xenix tales](dt/xenixtales)
 - [Booting from cassette](dt/bootingfromcassette)
 - [Booting from COM1 - part 2](dt/bootingfromcom1part2)
