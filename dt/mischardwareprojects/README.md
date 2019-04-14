@@ -44,11 +44,11 @@ There are several solutions for disabling defective heads, the simple way is rew
 
 Together with some cousins on the (trailing) edge:
 
-![Seagate ST-251 figA] (st251fig1.jpg)
+![Seagate ST-251 figA](st251fig1.jpg)
 
 Live long and prosper!
 
-![Seagate ST-251 figB] (st251fig2.jpg)
+![Seagate ST-251 figB](st251fig2.jpg)
 
 ### ROM/SW tricks
 
