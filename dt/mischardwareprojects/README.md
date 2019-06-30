@@ -3,7 +3,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../xenixtales) | [Index](../../../../) | [Next]
+[Previous](../xenixtales) | [Index](../../../../) | [Next](../aixps2part2)
 --- | --- | ---
 
 ---
@@ -69,5 +69,5 @@ Needs deep hardware knowledge and experience, not for the newbies.
 
 ---
 
-[Previous](../xenixtales) | [Index](../../../../) | [Next]
+[Previous](../xenixtales) | [Index](../../../../) | [Next](../aixps2part2)
 --- | --- | ---

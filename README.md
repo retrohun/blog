@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [AIX/PS2 - part 2](dt/aixps2part2)
 - [Misc. hardware projects](dt/mischardwareprojects)
 - [Xenix tales](dt/xenixtales)
 - [Booting from cassette](dt/bootingfromcassette)
