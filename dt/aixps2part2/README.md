@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../mischardwareprojects) | [Index](../../../../) | [Next]
+[Previous](../mischardwareprojects) | [Index](../../../../) | [Next](../intelmcs85tales)
 --- | --- | ---
 
 ---
@@ -40,5 +40,5 @@ So glad to announce that it is online again:
 
 Hope you will enjoy this!
 
-[Previous](../mischardwareprojects) | [Index](../../../../) | [Next]
+[Previous](../mischardwareprojects) | [Index](../../../../) | [Next](../intelmcs85tales)
 --- | --- | ---
