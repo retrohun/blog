@@ -3,7 +3,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../aixps2part2) | [Index](../../../../) | [Next]
+[Previous](../aixps2part2) | [Index](../../../../) | [Next](../i8080emulatorinbash)
 --- | --- | ---
 
 ---
@@ -160,5 +160,5 @@ Of course we are interested in backporting changes to earlier mame or mess versi
 
 ---
 
-[Previous](../aixps2part2) | [Index](../../../../) | [Next]
+[Previous](../aixps2part2) | [Index](../../../../) | [Next](../i8080emulatorinbash)
 --- | --- | ---

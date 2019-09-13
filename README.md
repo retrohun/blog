@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [i8080 emulator in bash](dt/i8080emulatorinbash)
 - [Intel MCS-85 tales](dt/intelmcs85tales)
 - [AIX/PS2 - part 2](dt/aixps2part2)
 - [Misc. hardware projects](dt/mischardwareprojects)
