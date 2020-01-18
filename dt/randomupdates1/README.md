@@ -8,7 +8,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-## Selected pictures frin machines in our collection - gallery
+## Selected pictures from machines in our collection - gallery
 A bug from 1990 or earlier found by me - reversi easiest mode machine player is plausible - can be beaten easily:
 
 ![How to defeat windows reversi](howtodefeatwindowsreversi.gif)

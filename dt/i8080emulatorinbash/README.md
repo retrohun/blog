@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../intelmcs85tales) | [Index](../../../../) | [Next]
+[Previous](../intelmcs85tales) | [Index](../../../../) | [Next](../randomupdates2)
 --- | --- | ---
 
 ---
@@ -68,5 +68,5 @@ $ # Ctrl-C is pressed, session terminated
 
 ## Have fun!
 
-[Previous](../intelmcs85tales) | [Index](../../../../) | [Next]
+[Previous](../intelmcs85tales) | [Index](../../../../) | [Next](../randomupdates2)
 --- | --- | ---
