@@ -3,7 +3,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../i8080emulatorinbash) | [Index](../../../../) | [Next]
+[Previous](../i8080emulatorinbash) | [Index](../../../../) | [Next](../coronamsdoscrashesqemu)
 --- | --- | ---
 
 ---
@@ -122,5 +122,5 @@ My strictly unofficial fork repository now contains patches including serial ter
 
 ---
 
-[Previous](../i8080emulatorinbash) | [Index](../../../../) | [Next]
+[Previous](../i8080emulatorinbash) | [Index](../../../../) | [Next](../coronamsdoscrashesqemu)
 --- | --- | ---

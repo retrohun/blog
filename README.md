@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Corona MS-DOS crashes qemu](dt/coronamsdoscrashesqemu/)
 - [Random updates 2](dt/randomupdates2)
 - [i8080 emulator in bash](dt/i8080emulatorinbash)
 - [Intel MCS-85 tales](dt/intelmcs85tales)
