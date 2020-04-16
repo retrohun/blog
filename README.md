@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Conway (1937-2020)](dt/conway19372020/)
 - [Corona MS-DOS crashes qemu](dt/coronamsdoscrashesqemu/)
 - [Random updates 2](dt/randomupdates2)
 - [i8080 emulator in bash](dt/i8080emulatorinbash)

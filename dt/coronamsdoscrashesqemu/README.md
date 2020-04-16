@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../randomupdates2) | [Index](../../../../) | [Next]
+[Previous](../randomupdates2) | [Index](../../../../) | [Next](../conway19372020)
 --- | --- | ---
 
 ---
@@ -221,5 +221,5 @@ this bug to upstream qemu maintainers!
 
 ## Have fun!
 
-[Previous](../randomupdates2) | [Index](../../../../) | [Next]
+[Previous](../randomupdates2) | [Index](../../../../) | [Next](../conway19372020)
 --- | --- | ---
