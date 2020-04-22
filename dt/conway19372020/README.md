@@ -3,7 +3,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../coronamsdoscrashesqemu) | [Index](../../../../) | [Next]
+[Previous](../coronamsdoscrashesqemu) | [Index](../../../../) | [Next](../microportunixon286)
 --- | --- | ---
 
 ---
@@ -27,5 +27,5 @@ Configuration parameters: IBM PC 5150 with 10MB installed harddisk, mounted demo
 
 ---
 
-[Previous](../coronamsdoscrashesqemu) | [Index](../../../../) | [Next]
+[Previous](../coronamsdoscrashesqemu) | [Index](../../../../) | [Next](../microportunixon286)
 --- | --- | ---
