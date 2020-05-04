@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../conway19372020) | [Index](../../../../) | [Next]
+[Previous](../conway19372020) | [Index](../../../../) | [Next](../attunixfirsttry)
 --- | --- | ---
 
 ---
@@ -85,5 +85,5 @@ Converted the .VMDK image file to RAW, then booted in in PCem. Confirmed that an
 
 ## Have fun!
 
-[Previous](../conway19372020) | [Index](../../../../) | [Next]
+[Previous](../conway19372020) | [Index](../../../../) | [Next](../attunixfirsttry)
 --- | --- | ---
