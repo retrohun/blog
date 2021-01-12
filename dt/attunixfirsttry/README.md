@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../microportunixon286) | [Index](../../../../) | [Next]
+[Previous](../microportunixon286) | [Index](../../../../) | [Next](../custombootromfun)
 --- | --- | ---
 
 ---
@@ -145,5 +145,5 @@ Have fun!
 
 ---
 
-[Previous](../microportunixon286) | [Index](../../../../) | [Next]
+[Previous](../microportunixon286) | [Index](../../../../) | [Next](../custombootromfun)
 --- | --- | ---

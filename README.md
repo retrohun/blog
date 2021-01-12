@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Custom boot rom fun](dt/custombootromfun)
 - [AT&T Unix first try](dt/attunixfirsttry)
 - [Microport Unix on 286](dt/microportunixon286/)
 - [Conway (1937-2020)](dt/conway19372020/)
