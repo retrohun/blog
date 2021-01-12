@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [SDK-85 fun - part 1](dt/sdk85funpart1)
 - [Custom boot rom fun](dt/custombootromfun)
 - [AT&T Unix first try](dt/attunixfirsttry)
 - [Microport Unix on 286](dt/microportunixon286/)

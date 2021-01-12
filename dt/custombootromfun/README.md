@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../attunixfirsttry) | [Index](../../../../) | [Next]
+[Previous](../attunixfirsttry) | [Index](../../../../) | [Next](../sdk85funpart1)
 --- | --- | ---
 
 ---
@@ -56,5 +56,5 @@ Reminder: use space in menue, player controls are arrows and left shift.
 
 ## Have fun!
 
-[Previous](../attunixfirsttry) | [Index](../../../../) | [Next]
+[Previous](../attunixfirsttry) | [Index](../../../../) | [Next](../sdk85funpart1)
 --- | --- | ---
