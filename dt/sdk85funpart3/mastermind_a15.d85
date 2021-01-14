@@ -1,0 +1,412 @@
+; compile it with:
+;
+; ./pasm8085-beta4.pl -o mastermind.a15 mastermind_a15.d85
+;       _____
+;    _ |  a  | _
+;   | | ----- | |
+;   |f|       |b|
+;   | | _____ | |
+;    = |  g  | =
+;   | | ----- | |
+;   |e|       |c|
+;   | | _____ | |    ___
+;    - |  d  | -    /d.p\ (decimal point)
+;       -----       \___/
+; MSB                           LSB
+;  ___ ___ ___ ___ ___ ___ ___ ___
+; |   |   |   |   |   |   |   |   |
+; | d | c | b | a |d.p| g | f | e | "4" == 1001 1001b == 0x99H
+; |   |   |   |   |   |   |   |   |
+;  --- --- --- --- --- --- --- ---
+; (C) Naszvadi
+; Other parts below from their respective owners
+
+        ORG  0800H
+
+        DI               ; disable interrupts
+
+        LXI  SP,X20FF
+        LXI  H,X1900
+        MVI  M,0CCH      ; Display clear: [ 1 ][ 1 ][ 0 ][C_D] [C_D][C_D][C_F][C_A] ==>> [C_DC_DC_D]=100 == disable clear display, all ones,
+                         ; C_F==0= fifo not cleared, C_A==0= "do NOT clear code"
+        MVI  M,2BH       ; ??? PROGRAM CLOCK ??? [000 P][PPPP], ahol PPPPP == external clock divider == 01011b == 0BH
+        MVI  M,0E0H      ; End interrupt/error mode set [ 1 ][ 1 ][ 1 ][ E ] [ X ][ X ][ X ][ X ], X = arbitrary, E==0= error mode OFF
+        MVI  M,0C2H      ; Display clear: all ZEROS, C_A==1= CLEAR IT CODE active
+        MVI  M,94H       ; Write DISPLAY RAM, [ 1 ][ 0 ][ 0 ][ AI] [ A ][ A ][ A ][ A ] ; screen, column value address! (right 2 digits from 6)
+                         ; AI==1 = autoincrement, thus primitive "GPU" - scroller :)
+        MVI  A,0FFH      ; one's complement data to accumulator register, then to the memmapped 1800H!
+        LXI  H,X1800     ; memmapped address must be 1800H
+        MOV  M,A         ; right pair left digit
+        MOV  M,A         ; right pair right digit
+        MVI  A,0FH
+; calling printout
+        CALL PRINT_1
+
+RND00:  ; RANDOM + main()
+        INR  E
+        MVI  A,0FH
+        ANA  E
+        CPI  06H
+        JNZ  RNDTAIL
+        MVI  A,0AH
+        ADD  E
+        MOV  E,A
+        CPI  60H
+        JNZ  RNDTAIL
+        MVI  E,0
+        INR  D
+        MVI  A,0FH
+        ANA  D
+        CPI  06H
+        JNZ  RNDTAIL
+        MVI  A,0AH
+        ADD  D
+        MOV  D,A
+        CPI  60H
+        JNZ  RNDTAIL
+        MVI  D,0
+RNDTAIL:
+        LDA  X1900
+        ANA  A           ; zero if no kbd "event" then increments DE register (modulo decimal 10000) as BCD value
+        JZ   RND00
+
+        CALL KBDCK
+        ANI  3FH
+        JNZ  RND00       ; should press zero to start game
+
+        LXI  H,1111H
+        DAD  D
+        XCHG
+
+        LXI  H,X2002     ; [2000h inputintex] [2001h ramindex]
+                         ; [2002h][2003h][2004h][2005h] <- this is to guess
+                         ; [2006h][2007h][2008h][2009h] <- current guess
+                         ; [200AH number of tries] [200Bh bulls] [200Ch cows]
+        MOV  A,E
+        CALL A2BCD       ; dw [2002h], BCD E
+        MOV  A,D
+        CALL A2BCD       ; dw [2004h], BCD D
+
+        LXI  H,X200A
+        MVI  M,0         ; [200Ah]:=0
+
+MAINLOOP:
+        LXI  H,X2000
+        MVI  M,3         ; [2000h]:=3
+        XRA  A           ; A:=0
+
+        STA  X200B       ; [200Bh]:=0
+
+        STA  X200C       ; [200Ch]:=0
+        MVI  A,0EH       ; must print four minus signs
+        CALL PRINT_1
+INP_LOOP:
+        CALL INKEY
+
+        LDA  X2000       ; Determining number of bulls
+        STA  X2001
+        CALL MEMCMP
+        JZ   INCBULL     ; Increment number of bulls
+
+        MVI  A,3
+        STA  X2001
+COWLOOP:CALL MEMCMP
+        JZ   INCCOW
+        LDA  X2001
+        ORA  A
+        JZ   MISSED
+        LXI  H,X2001
+        DCR  M
+        JMP  COWLOOP
+INCBULL:LXI  H,X200B
+        INR  M
+        JMP  MISSED
+INCCOW: LXI  H,X200C
+        INR  M
+MISSED: CALL PRINT4
+        LDA  X2000
+        ORA  A           ; assert [2000h] == 3
+        JZ   NUMCOWS     ; conditional jump to count determine cows
+        DCR  A
+        STA  X2000
+        JMP  INP_LOOP
+
+NUMCOWS:XRA  A
+        STA  X200C       ; clear count white sticks
+
+        MVI  C,8         ; copy 8 contiguous bytes
+        LXI  H,X200D     ; destination
+        LXI  D,X2002     ; source
+YCOPY1:
+        LDAX D
+        MOV  M,A
+        INX  H
+        INX  D
+        DCR  C
+        JNZ  YCOPY1
+
+        MVI  C,4         ; bulls
+        LXI  H,X200D
+        LXI  D,X2011
+YBLACKLOOP1:
+        LDAX D
+        CMP  M
+        JNZ  YBLACKSKIP1
+        XRA  A
+        DCR  A
+        MOV  M,A
+        DCR  A
+        STAX D
+YBLACKSKIP1:
+        INX  H
+        INX  D
+        DCR  C
+        JNZ  YBLACKLOOP1
+
+        MVI  C,4         ; cows
+        LXI  H,X200D
+YWHITELOOP1:
+        MVI B,4
+        LXI D,X2011
+YWHITELOOP2:
+        LDAX D
+        CMP M
+        JNZ YWHITESKIP1
+        XRA A
+        DCR A
+        MOV M,A
+        DCR A
+        STAX D
+        LDA  X200C
+        INR  A
+        STA  X200C
+YWHITESKIP1:
+        INX  D
+        DCR  B
+        JNZ  YWHITELOOP2
+        INX  H
+        DCR  C
+        JNZ  YWHITELOOP1
+
+        LDA  X200A       ; increment number of guesses
+        ADI  1
+        DAA
+        STA  X200A
+
+        MVI  C,4
+        LXI  H,X2006
+        LXI  D,X2002
+CHKGUESS:
+        LDAX D
+        CMP  M           ; mem[2002h+3-C] == mem[2006h+3-C]
+        JNZ  FAILED      ; jump if miss
+        INX  H
+        INX  D
+        DCR  C
+        JNZ  CHKGUESS
+
+        LXI  H,X200B
+        MVI  A,4
+        CMP  M
+        JNZ  FAILED      ; fail is number of bulls less than 4
+
+ENDLOOP:LDA  X1900
+        ANA  A
+        JZ   SKIP3       ; skip if no keyboard event
+        CALL KBDCK       ; load "keycode" to A, 3=3 etc.
+        CPI  3           ; if 3 is pressed, print number of tries at the end - before restarting a new game
+        JZ   ENDGAME
+SKIP3:  CALL DELAY
+        MVI  A,90H       ; Write DISPLAY RAM, [1][0][0][ AI] [A][A][A][A]
+        STA  X1900
+        LXI  H,X1800
+        MVI  A,0FFH
+        MOV  M,A
+        MOV  M,A
+        MOV  M,A
+        MOV  M,A
+        CALL DELAY
+        CALL PRINT4
+        JMP  ENDLOOP
+
+ENDGAME:LXI  H,X2006     ; print number of tries
+        LDA  X200A
+        CALL A2BCD
+        MVI  A,0FH
+        MOV  M,A
+        INX  H
+        MOV  M,A
+        CALL PRINT4
+        JMP  RND00
+
+FAILED: CALL DELAY2      ; print bulls and cows
+        LDA  X200C
+        STA  X2006
+        LDA  X200B
+        STA  X2008
+        MVI  A,0FH
+        STA  X2007
+        STA  X2009
+        CALL PRINT4
+        CALL DELAY2
+        JMP  MAINLOOP
+
+DELAY2:
+        PUSH D
+        PUSH H
+        LXI  D,XB4DC
+DELAY2LOOP:
+        DCX  D
+        MOV  A,D
+        ORA  E
+        JNZ  DELAY2LOOP
+        POP  H
+        POP  D
+        RET
+
+; memory indirect indexed byte comparison, eval "CMP [2006h+[2000h]], [2002h+[2001h]]"
+MEMCMP: PUSH H
+        PUSH B
+        PUSH D
+
+        LDA  X2000
+        MOV  C,A
+        MVI  B,0
+
+        LDA  X2001
+        MOV  E,A
+        MVI  D,0
+
+        LXI  H,X2006
+        DAD  B
+        MOV  A,M
+
+        LXI  H,X2002
+        DAD  D
+        CMP  M
+        POP  D
+        POP  B
+        POP  H
+        RET
+
+DELAY:  LXI  D,X3000
+DELOP:  DCX  D
+        MOV  A,D
+        ORA  E
+        JZ   DELOP
+        RET
+
+KBDCK:  MVI  A,40H       ; Read FIFO/sensor RAM [0][1][0][ AI] [X][A][A][A]
+        STA  X1900       ; AI = autoincrement, AAA= address
+        LDA  X1800
+        ANI  3FH
+        RET
+
+; moves A registers 4-4 bit nibbels to [HL], then to [HL+1] respectively, alters HL accordingly
+A2BCD:  PUSH PSW
+        ANI  0FH
+        MOV  M,A
+        INX  H
+        POP  PSW
+        ANI  0F0H
+        RRC
+        RRC
+        RRC
+        RRC
+        MOV  M,A
+        INX  H
+        RET
+
+PRINT_1:MVI  E,4         ; fills [2006H]..[2009H] with A register
+        LXI  H,X2006
+PRLOOP: MOV  M,A
+        INX  H
+        DCR  E
+        JNZ  PRLOOP
+        JMP  PRINT4
+
+HEXDIGITS:
+        DB   0F3H,60H,0B5H,0F4H,66H,0D6H,0D7H,70H,0F7H,76H,77H,97H,67H,17H,4,0
+
+PRINT4: PUSH H
+        PUSH D
+        MVI  E,4
+        MVI  A,90H       ; Write DISPLAY RAM, [1][0][0][AI] [A][A][A][A]
+        STA  X1900
+        LXI  H,X2009
+PR4LOOP:
+        MOV  A,M
+        PUSH H
+        PUSH B
+        MOV  C,A
+        MVI  B,0
+        LXI  H,HEXDIGITS
+        DAD  B
+        MOV  A,M
+        POP  B
+        POP  H
+        CMA
+        STA  X1800
+        DCX  H
+        DCR  E
+        JNZ  PR4LOOP
+        POP  D
+        POP  H
+        RET
+
+INKEY:  PUSH H
+        PUSH D
+        PUSH B
+INKEYLOOP:
+        LDA  X1900
+        ANI  7
+        JZ   INKEYLOOP   ; wait until key is pressed
+        CALL KBDCK
+
+        CPI  7           ; check is key is too big
+        JNC  INKEYLOOP   ; try again
+        ORA  A           ; check is key is too small
+        JZ   INKEYLOOP   ; try again
+        MOV  E,A
+        MVI  D,0
+        LXI  H,NUMXLAT
+        DAD  D
+        MOV  B,M
+        LDA  X2000
+        MOV  E,A
+        MVI  D,0
+        LXI  H,X2006     ; "[2006h+[2000h]]=inkey()"
+        DAD  D
+        MOV  M,B
+        POP  B
+        POP  D
+        POP  H
+        RET
+
+NUMXLAT:
+        DB   0,1,2,3,4,5,6,7,8,9,0AH,0BH,0CH,0
+
+        ORG  0FFFH
+        NOP
+
+X1800  EQU  1800H
+X1900  EQU  1900H
+X2000  EQU  2000H
+X2001  EQU  2001H
+X2002  EQU  2002H
+X2006  EQU  2006H
+X2007  EQU  2007H
+X2008  EQU  2008H
+X2009  EQU  2009H
+X200A  EQU  200AH
+X200B  EQU  200BH
+X200C  EQU  200CH
+
+X200D  EQU  200DH
+X2011  EQU  2011H
+
+X20FF  EQU  20FFH
+X3000  EQU  3000H
+XB4DC  EQU  0B4DCH
+
+        END
