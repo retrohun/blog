@@ -12,8 +12,8 @@ Some rights reserved! Vintage technology preserved.
 ## Foreword about numbering
 
 There were two former blogentries focused on sdk85:
-- [Intel MCS-85 tales](dt/intelmcs85tales)
-- [SDK-85 fun - part 1](dt/sdk85funpart1)
+- [Intel MCS-85 tales](../intelmcs85tales)
+- [SDK-85 fun - part 1](../sdk85funpart1)
 
 Corollary: 1 + 1 = 3
 

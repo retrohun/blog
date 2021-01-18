@@ -11,7 +11,7 @@ Some rights reserved! Vintage technology preserved.
 
 # MCS-85 secondary rom bank 101 
 
-An example session - continued from [SDK-85 fun - part 1](dt/sdk85funpart1)
+An example session - continued from [SDK-85 fun - part 3](../sdk85funpart1)
 
 ### Howto boot custom rom bank from Intel MCS-85 monitor
 
