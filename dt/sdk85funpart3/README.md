@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../sdk85funpart1) | [Index](../../../../) | [Next]
+[Previous](../sdk85funpart1) | [Index](../../../../) | [Next](../sdk85funpart4)
 --- | --- | ---
 
 ---
@@ -84,5 +84,5 @@ Here you are:
 
 ## Have fun!
 
-[Previous](../sdk85funpart1) | [Index](../../../../) | [Next]
+[Previous](../sdk85funpart1) | [Index](../../../../) | [Next](../sdk85funpart4)
 --- | --- | ---
