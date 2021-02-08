@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [More boot rom fun](dt/morebootromfun)
 - [SDK-85 fun - part 4](dt/sdk85funpart4)
 - [SDK-85 fun - part 3](dt/sdk85funpart3)
 - [SDK-85 fun - part 1](dt/sdk85funpart1)

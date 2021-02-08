@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../sdk85funpart3) | [Index](../../../../) | [Next]
+[Previous](../sdk85funpart3) | [Index](../../../../) | [Next](../morebootromfun)
 --- | --- | ---
 
 ---
@@ -172,5 +172,5 @@ Have fun!
 
 ---
 
-[Previous](../sdk85funpart3) | [Index](../../../../) | [Next]
+[Previous](../sdk85funpart3) | [Index](../../../../) | [Next](../morebootromfun)
 --- | --- | ---
