@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../sdk85funpart4) | [Index](../../../../) | [Next]
+[Previous](../sdk85funpart4) | [Index](../../../../) | [Next](../mindthexenix)
 --- | --- | ---
 
 ---
@@ -45,5 +45,5 @@ $ dd status=none if=boulderII.rom bs=1c skip=42 count=27482 of=BOULDER2.COM
 
 ## Have fun!
 
-[Previous](../sdk85funpart4) | [Index](../../../../) | [Next]
+[Previous](../sdk85funpart4) | [Index](../../../../) | [Next](../mindthexenix)
 --- | --- | ---

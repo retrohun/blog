@@ -1,0 +1,4052 @@
+[BBWW]
+(....)
+       [GGRY]
+       (....)
+              [UUUU]
+              (bbbb) Win in step 3
+       (w...)
+              [UURU]
+              (ww..)
+                     [RRUR]
+                     (bbbb) Win in step 4
+              (b...)
+                     [YYYU]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [YYUU]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BRBU]
+                     (ww..)
+                            [RUUR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [URUR]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RRUU]
+                            (bbbb) Win in step 5
+              (bb..)
+                     [YUYU]
+                     (bbww)
+                            [UYYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [YUUU]
+                     (bbw.)
+                            [UUUG]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UYUU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [BRBU]
+                     (ww..)
+                            [UUUR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [RUUU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [URUU]
+                            (bbbb) Win in step 5
+              (bbb.)
+                     [UUGU]
+                     (bbb.)
+                            [UUYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (ww..)
+              [UUGR]
+              (w...)
+                     [YYYG]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RYYU]
+                     (bww.)
+                            [YYUG]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YRYU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RRYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [RYUU]
+                     (bb..)
+                            [RRUG]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YRUU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [BRRR]
+                     (b...)
+                            [YYYR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [RYYR]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [YRYR]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [RRYR]
+                            (bbbb) Win in step 5
+              (bw..)
+                     [YUYG]
+                     (ww..)
+                            [RYUR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YRUR]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [YYUR]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YYGU]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UYYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RUYU]
+                     (www.)
+                            [UYUG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [YUUG]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RRGU]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [URYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [RUUG]
+                     (bbww)
+                            [URUG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [RUYR]
+                     (bb..)
+                            [RRGR]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [UYYR]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [URYR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YUYR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [YUGU]
+                     (www.)
+                            [UYUR]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [UUYG]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [YUUR]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UYGU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [RUGU]
+                     (bbww)
+                            [URGU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BRBG]
+                     (w...)
+                            [UUYR]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [RUGR]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [UUGG]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [URGR]
+                            (bbbb) Win in step 5
+              (bbbb) Win in step 3
+       (www.)
+              [RUYG]
+              (www.)
+                     [YRGR]
+                     (bbb.)
+                            [YYGR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YRGU]
+                     (bwww)
+                            [UYGR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [YYGG]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RYGR]
+                     (bw..)
+                            [URGG]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [UYGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [RYGU]
+                     (wwww)
+                            [YRUG]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YUGR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [RRGG]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [YRYG]
+                     (bb..)
+                            [YUGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [RYUG]
+                     (bwww)
+                            [URYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [RRYG]
+                     (bb..)
+                            [RUGG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RYYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (wwww)
+              [RYGG]
+              (bbww)
+                     [YRGG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (b...)
+              [GUYU]
+              (....)
+                     [RRRR]
+                     (bbbb) Win in step 4
+              (w...)
+                     [URRR]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [YYUY]
+                     (bbbb) Win in step 4
+              (www.)
+                     [UYUY]
+                     (bbbb) Win in step 4
+              (b...)
+                     [RRRU]
+                     (....)
+                            [YYYY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [RURR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [URRU]
+                     (b...)
+                            [UYYY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UURR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YUUY]
+                     (bw..)
+                            [UGUU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UUUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [RURU]
+                     (b...)
+                            [YUYY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UURU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [UUYY]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GUUU]
+                     (bbbb) Win in step 4
+       (bw..)
+              [GUGU]
+              (....)
+                     [RYRR]
+                     (ww..)
+                            [YRYY]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [RRYY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RYYY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YRRR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YYRR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (w...)
+                     [RYUY]
+                     (b...)
+                            [RRRG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [UYRR]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [URYY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YRUY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RRUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RGUR]
+                     (wwww)
+                            [URRG]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [URUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [UGUR]
+                     (bbbb) Win in step 4
+              (wwww)
+                     [UGUG]
+                     (bbbb) Win in step 4
+              (b...)
+                     [RYRU]
+                     (b...)
+                            [YYGY]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [RUYY]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YURR]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YRRU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YYRU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BYUY]
+                     (w...)
+                            [RURG]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [YGYU]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [GRUR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [UYRU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RUUY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [UYGY]
+                            (bbbb) Win in step 5
+              (bww.)
+                     [RGUU]
+                     (wwww)
+                            [UURG]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [UGGG]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [UGYU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YGUU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [GYYU]
+                     (wwww)
+                            [YUGY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YURU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GRUU]
+                     (www.)
+                            [UUGY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GUUR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GYUU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GUUG]
+                     (wwww)
+                            [UGGU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GUGG]
+                     (bb..)
+                            [GUYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bww.)
+              [GRYR]
+              (ww..)
+                     [BRGU]
+                     (ww..)
+                            [YGUG]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [RGUG]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [YGGG]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [RGGG]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [YGGU]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [RGGU]
+                            (bbbb) Win in step 5
+              (www.)
+                     [RYGY]
+                     (www.)
+                            [YURG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [UYRG]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YYRG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RUGY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [RYRG]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GYGU]
+                     (www.)
+                            [YGYG]
+                            (bbbb) Win in step 5
+                     (wwww)
+                            [UGYG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [UGGR]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GYUG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GYGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RGYU]
+                     (www.)
+                            [YRGY]
+                            (bbbb) Win in step 5
+                     (wwww)
+                            [URGY]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YGUR]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RGGR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [RRGY]
+                     (bwww)
+                            [YRRG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [GRUG]
+                     (bwww)
+                            [GUGR]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [GYYG]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [GUYG]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GRGU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GRGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GYUR]
+                     (bww.)
+                            [YGYR]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [UGYR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [RGYR]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GRYU]
+                     (bb..)
+                            [GRGR]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [GYYR]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GUYR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bwww)
+              [GRYG]
+              (wwww)
+                     [YGGR]
+                     (bbbb) Win in step 4
+              (bwww)
+                     [GYGR]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [RGYG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bb..)
+              [GUGU]
+              (....)
+                     [BRRR]
+                     (b...)
+                            [YYRY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [RYRY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [YRRY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [RRRY]
+                            (bbbb) Win in step 5
+              (w...)
+                     [URRY]
+                     (b...)
+                            [YGYY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [RGRR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UYRY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [YGUY]
+                     (bw..)
+                            [UGRR]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UGYY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [UGUY]
+                     (bbbb) Win in step 4
+              (b...)
+                     [RURY]
+                     (b...)
+                            [GYYY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GRRR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YURY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GYUY]
+                     (ww..)
+                            [RGRU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [UURY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [GGUG]
+                     (bw..)
+                            [UGRU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [GRRU]
+                     (b...)
+                            [GGGG]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GUYY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GURR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GUUY]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GGUU]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GGGU]
+                     (bb..)
+                            [GURU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (bbw.)
+              [GRRG]
+              (ww..)
+                     [RGYY]
+                     (bb..)
+                            [UGGY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [YGGY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RGUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GGYU]
+                     (bww.)
+                            [GYGY]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [GUGY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [YGRU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [GGGR]
+                     (bb..)
+                            [YGRR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GGUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [GRYY]
+                     (bww.)
+                            [GYRU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [GGYG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GRUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GYRR]
+                     (bw..)
+                            [UGRG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [RGRG]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GURG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbww)
+              [GRGY]
+              (wwww)
+                     [YGRG]
+                     (bbbb) Win in step 4
+              (bwww)
+                     [GGYR]
+                     (bwww)
+                            [GYRG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [RGGY]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbb.)
+              [GRRU]
+              (b...)
+                     [GGGY]
+                     (bbb.)
+                            [GGYY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GGUY]
+                     (bb..)
+                            [YGRY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RGRY]
+                     (bbb.)
+                            [UGRY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [GGRG]
+                     (bb..)
+                            [GYRY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GGRR]
+                     (bb..)
+                            [GURY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GGRU]
+                     (bb..)
+                            [GRRY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (bbbb) Win in step 2
+(w...)
+       [WGRR]
+       (....)
+              [YYBY]
+              (w...)
+                     [UUUB]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [UUYB]
+                     (bbbb) Win in step 4
+              (b...)
+                     [UUBU]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [YUUB]
+                     (bbww)
+                            [UYUB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YUYB]
+                     (bbww)
+                            [UYYB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BYBU]
+                     (bww.)
+                            [UUBY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [YUBU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UYBU]
+                            (bbbb) Win in step 5
+              (bbw.)
+                     [YYUB]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [YYYB]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BYBU]
+                     (bww.)
+                            [YUBY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [UYBY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YYBU]
+                            (bbbb) Win in step 5
+              (bbbb) Win in step 3
+       (w...)
+              [GYBU]
+              (w...)
+                     [YWYY]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [UWYY]
+                     (w...)
+                            [RUUB]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [URUB]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YRYB]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YWUY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UWUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [RUYB]
+                     (bwww)
+                            [YRUB]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [UUGB]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [URYB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YUGB]
+                     (bbbb) Win in step 4
+              (b...)
+                     [UWUU]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [RYYB]
+                     (w...)
+                            [YWUU]
+                            (bbbb) Win in step 5
+                     (wwww)
+                            [YRBY]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [UWYU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YWYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BRUB]
+                     (ww..)
+                            [UUBG]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [RUBY]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [YYGB]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GUGB]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [URBY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [GUUB]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [RYUB]
+                            (bbbb) Win in step 5
+              (bwww)
+                     [YUBG]
+                     (wwww)
+                            [UYGB]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [GUYB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [RYBY]
+                     (bw..)
+                            [URBU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RUBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GYYB]
+                     (ww..)
+                            [YRBU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GUBG]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YYBG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GYGB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [BBBG]
+                     (ww..)
+                            [GYUB]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GUBY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [UYBG]
+                            (bbbb) Win in step 5
+              (bbb.)
+                     [BBRY]
+                     (w...)
+                            [GUBU]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [GYBG]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [RYBU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GYBY]
+                            (bbbb) Win in step 5
+              (bbbb) Win in step 3
+       (ww..)
+              [GWGY]
+              (....)
+                     [RRBU]
+                     (bbww)
+                            [RRUB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (w...)
+                     [RUBG]
+                     (bw..)
+                            [RRYB]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [URBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RYBG]
+                     (bbww)
+                            [YRBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [GRBU]
+                     (wwww)
+                            [RUGB]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [RWUU]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [URGB]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RRBY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GRUB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GRBG]
+                     (w...)
+                            [RWYU]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [RYGB]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [UWUG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [YRGB]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [GRYB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YWUG]
+                     (bbww)
+                            [UWYG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YWYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BGGU]
+                     (....)
+                            [RWYY]
+                            (bbbb) Win in step 5
+                     (w...)
+                            [RWUY]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [GRBY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GWUU]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [GRGB]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [UWGU]
+                            (bbbb) Win in step 5
+              (bbw.)
+                     [GWYU]
+                     (bww.)
+                            [UWGG]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [GWUG]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YWGU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GWYG]
+                     (bbww)
+                            [YWGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BYGU]
+                     (ww..)
+                            [GWYY]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [GWUY]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [GWGG]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YWGY]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [UWGY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [GWGU]
+                            (bbbb) Win in step 5
+              (bbbb) Win in step 3
+       (www.)
+              [WGGY]
+              (w...)
+                     [RRBG]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RWUG]
+                     (bbbb) Win in step 4
+              (www.)
+                     [RWYG]
+                     (bbbb) Win in step 4
+              (b...)
+                     [RRGB]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [RWGU]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RWGG]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [RWGY]
+                     (bbbb) Win in step 4
+       (b...)
+              [GGBY]
+              (....)
+                     [WUUU]
+                     (bbbb) Win in step 4
+              (w...)
+                     [WYUU]
+                     (ww..)
+                            [UURB]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [WUYU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WYYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [YURB]
+                     (bbww)
+                            [UYRB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YYRB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [UUBR]
+                     (....)
+                            [WYYY]
+                            (bbbb) Win in step 5
+                     (w...)
+                            [WYUY]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [WUYY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [WUUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [YUBR]
+                     (ww..)
+                            [UGUB]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UYBR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YYBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YGUB]
+                     (bbw.)
+                            [UGGB]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UGYB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YGYB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [YGGB]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [UGBU]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GGGB]
+                     (bw..)
+                            [YGBU]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [UGBG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GGUB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GGYB]
+                     (bwww)
+                            [YGBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GGBU]
+                     (bb..)
+                            [YGBY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [UGBY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GGBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bw..)
+              [RYBR]
+              (....)
+                     [WUGU]
+                     (bbww)
+                            [WUUG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WUGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (w...)
+                     [WUGY]
+                     (ww..)
+                            [UWRU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [WRUU]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [WUYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [WRYU]
+                     (ww..)
+                            [GURB]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [YWRY]
+                            (bbbb) Win in step 5
+                     (wwww)
+                            [UWRY]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YWRU]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [WRUY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WRYY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [URRB]
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YRRB]
+                     (bbbb) Win in step 4
+              (b...)
+                     [BUGY]
+                     (w...)
+                            [UWUR]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [WYYG]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [WYUG]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [WYGG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [WYGU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [WYGY]
+                            (bbbb) Win in step 5
+              (bw..)
+                     [RGUB]
+                     (w...)
+                            [YWYR]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [UWYR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YWUR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RGGB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BGYU]
+                     (w...)
+                            [RRRB]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [RURB]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [GYRB]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [RGYB]
+                            (bbbb) Win in step 5
+              (bb..)
+                     [GUBR]
+                     (bww.)
+                            [RGBG]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [RGBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [RGBY]
+                     (bw..)
+                            [URBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [RYRB]
+                     (wwww)
+                            [YRBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [RRBR]
+                     (bb..)
+                            [GYBR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RUBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bww.)
+              [GWRY]
+              (www.)
+                     [WRGU]
+                     (bbww)
+                            [WRUG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WRGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [WRYG]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GRBR]
+                     (bw..)
+                            [RWUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RWYR]
+                     (bb..)
+                            [UWGR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [WRGY]
+                     (bwww)
+                            [YWGR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [GRRB]
+                     (bw..)
+                            [RWRU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GWGR]
+                     (bww.)
+                            [UWRG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GWUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GWYR]
+                     (bwww)
+                            [YWRG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GWRG]
+                     (bb..)
+                            [RWRY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GWRU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bwww)
+              [RWGR]
+              (bbww)
+                     [RWRG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bb..)
+              [BYRY]
+              (....)
+                     [BBGU]
+                     (ww..)
+                            [WGUG]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [WGGG]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [WGUU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [WGGU]
+                            (bbbb) Win in step 5
+              (w...)
+                     [WGYG]
+                     (b...)
+                            [WUUR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WGYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [WUYR]
+                     (b...)
+                            [GGBR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [UGBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [YGBR]
+                     (bbbb) Win in step 4
+              (b...)
+                     [WGGY]
+                     (b...)
+                            [WURU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WGUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WYUR]
+                     (w...)
+                            [GGRB]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [UGRB]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [WGYY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WYYR]
+                     (ww..)
+                            [YGRB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WYRU]
+                     (bbww)
+                            [WURY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WYRY]
+                     (bbbb) Win in step 4
+       (bbw.)
+              [WRWY]
+              (w...)
+                     [RGBR]
+                     (bbww)
+                            [RGRB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RWRR]
+                     (bbb.)
+                            [UWRR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [YWRR]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WUGR]
+                     (bbww)
+                            [WURG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WYGR]
+                     (bbww)
+                            [WYRG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WRRU]
+                     (bbww)
+                            [WRUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WRYR]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WRRY]
+                     (bbbb) Win in step 4
+       (bbww)
+              [WRGR]
+              (bwww)
+                     [GWRR]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WRRG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbb.)
+              [BGGY]
+              (....)
+                     [WRRR]
+                     (bbb.)
+                            [WURR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (w...)
+                     [WYRR]
+                     (bbbb) Win in step 4
+              (b...)
+                     [WGRU]
+                     (bbww)
+                            [WGUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WGRG]
+                     (bbw.)
+                            [WGYR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WGGR]
+                     (bbw.)
+                            [WGRY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (bbbb) Win in step 2
+(ww..)
+       [WGRR]
+       (....)
+              [BYBY]
+              (bw..)
+                     [UUBB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YUBB]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [UYBB]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [YYBB]
+                     (bbbb) Win in step 4
+       (w...)
+              [YWBY]
+              (b...)
+                     [GUBB]
+                     (bbw.)
+                            [URBB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RUBB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GYBB]
+                     (b...)
+                            [UWUB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RYBB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [UWYB]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [YRBB]
+                     (b...)
+                            [UWBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [YWUB]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [YWYB]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [YWBU]
+                     (bbww)
+                            [UWBY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (ww..)
+              [GWBY]
+              (b...)
+                     [RRBB]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [RWUB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RWYB]
+                     (bb..)
+                            [UWGB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [YWGB]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [GRBB]
+                     (bw..)
+                            [RWBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GWGB]
+                     (bww.)
+                            [UWBG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GWUB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GWYB]
+                     (bwww)
+                            [YWBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GWBG]
+                     (bb..)
+                            [RWBY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GWBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (www.)
+              [RWBG]
+              (bbww)
+                     [RWGB]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (b...)
+              [WWYU]
+              (....)
+                     [GGBB]
+                     (bbbb) Win in step 4
+              (w...)
+                     [YGBB]
+                     (bbb.)
+                            [UGBB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WYBY]
+                     (bw..)
+                            [WUUB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WYUB]
+                     (bwww)
+                            [WUBY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WYYB]
+                     (bw..)
+                            [WUBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WYBU]
+                     (bwww)
+                            [WUYB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WWUY]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WWYY]
+                     (bb..)
+                            [WWUU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bw..)
+              [WRBY]
+              (www.)
+                     [UWRB]
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YWRB]
+                     (bbbb) Win in step 4
+              (b...)
+                     [WWGU]
+                     (bbww)
+                            [WWUG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WWGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WWYG]
+                     (w...)
+                            [RGBB]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [WUGB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WYGB]
+                     (ww..)
+                            [UWBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [YWBR]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WWGY]
+                     (bw..)
+                            [WUBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WRUB]
+                     (bw..)
+                            [WYBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WRYB]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WRBU]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bww.)
+              [WRBG]
+              (www.)
+                     [RWRB]
+                     (bbbb) Win in step 4
+              (wwww)
+                     [GWRB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RWBR]
+                     (bbbb) Win in step 4
+              (bwww)
+                     [GWBR]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WRGB]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bb..)
+              [GGBY]
+              (....)
+                     [WWRU]
+                     (bbww)
+                            [WWUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (w...)
+                     [WWYR]
+                     (bw..)
+                            [WURB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [WYRB]
+                     (bbbb) Win in step 4
+              (b...)
+                     [WWRY]
+                     (bw..)
+                            [WUBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WGUB]
+                     (bw..)
+                            [WYBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WGGB]
+                     (bbb.)
+                            [WGYB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WGBU]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WGBG]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WGBY]
+                     (bbbb) Win in step 4
+       (bbw.)
+              [WWGR]
+              (bw..)
+                     [WRRB]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WRBR]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WWRG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbb.)
+              [WGBR]
+              (bb..)
+                     [WWRR]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WGRB]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+(www.)
+       [BWBG]
+       (bw..)
+              [BBRY]
+              (w...)
+                     [WWUB]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [WWYB]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WWRB]
+                     (bbbb) Win in step 4
+       (bww.)
+              [BRBY]
+              (w...)
+                     [WWGB]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WUBB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WYBB]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WRBB]
+                     (bbbb) Win in step 4
+       (bwww)
+              [WGBB]
+              (bbbb) Win in step 3
+       (bb..)
+              [BBRY]
+              (w...)
+                     [WWBU]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [WWBR]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WWBY]
+                     (bbbb) Win in step 4
+       (bbw.)
+              [RBBY]
+              (bw..)
+                     [UWBB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YWBB]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [RWBB]
+                     (bbbb) Win in step 4
+       (bbww)
+              [GWBB]
+              (bbbb) Win in step 3
+       (bbb.)
+              [WWBG]
+              (bbbb) Win in step 3
+(wwww)
+       [WWBB]
+       (bbbb) Win in step 2
+(b...)
+       [BGRR]
+       (....)
+              [YYWY]
+              (w...)
+                     [UUUW]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [UUYW]
+                     (bbbb) Win in step 4
+              (b...)
+                     [UUWU]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [YUUW]
+                     (bbww)
+                            [UYUW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YUYW]
+                     (bbww)
+                            [UYYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BYBU]
+                     (ww..)
+                            [UUWY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YUWU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [UYWU]
+                            (bbbb) Win in step 5
+              (bbw.)
+                     [YYUW]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [YYYW]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BYBU]
+                     (ww..)
+                            [YUWY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [UYWY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [YYWU]
+                            (bbbb) Win in step 5
+              (bbbb) Win in step 3
+       (w...)
+              [GYWU]
+              (w...)
+                     [YBYY]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [UBYY]
+                     (w...)
+                            [RUUW]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [URUW]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YRYW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YBUY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UBUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [RUYW]
+                     (bwww)
+                            [YRUW]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [UUGW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [URYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YUGW]
+                     (bbbb) Win in step 4
+              (b...)
+                     [UBUU]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [RYYW]
+                     (w...)
+                            [YBUU]
+                            (bbbb) Win in step 5
+                     (wwww)
+                            [YRWY]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [UBYU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YBYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BRUW]
+                     (ww..)
+                            [UUWG]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [RUWY]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [YYGW]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GUGW]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [URWY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [GUUW]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [RYUW]
+                            (bbbb) Win in step 5
+              (bwww)
+                     [YUWG]
+                     (wwww)
+                            [UYGW]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [GUYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [RYWY]
+                     (bw..)
+                            [URWU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RUWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GYYW]
+                     (ww..)
+                            [YRWU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GUWG]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YYWG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GYGW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [BBWG]
+                     (ww..)
+                            [GYUW]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GUWY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [UYWG]
+                            (bbbb) Win in step 5
+              (bbb.)
+                     [BBRY]
+                     (....)
+                            [GUWU]
+                            (bbbb) Win in step 5
+                     (w...)
+                            [GYWG]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [RYWU]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [GYWY]
+                            (bbbb) Win in step 5
+              (bbbb) Win in step 3
+       (ww..)
+              [GBGY]
+              (....)
+                     [RRWU]
+                     (bbww)
+                            [RRUW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (w...)
+                     [RUWG]
+                     (bw..)
+                            [RRYW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [URWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RYWG]
+                     (bbww)
+                            [YRWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [GRWU]
+                     (wwww)
+                            [RUGW]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [RBUU]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [URGW]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RRWY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GRUW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GRWG]
+                     (w...)
+                            [RBYU]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [RYGW]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [UBUG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [YRGW]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [GRYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YBUG]
+                     (bbww)
+                            [UBYG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YBYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BRGU]
+                     (ww..)
+                            [RBYY]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [RBUY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GRWY]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [GBUU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [GRGW]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [UBGU]
+                            (bbbb) Win in step 5
+              (bbw.)
+                     [GBYU]
+                     (bww.)
+                            [UBGG]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [GBUG]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YBGU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GBYG]
+                     (bbww)
+                            [YBGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BYGU]
+                     (www.)
+                            [GBYY]
+                            (bbbb) Win in step 5
+                     (wwww)
+                            [GBUY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [GBGG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [YBGY]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [UBGY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [GBGU]
+                            (bbbb) Win in step 5
+              (bbbb) Win in step 3
+       (www.)
+              [BGGY]
+              (w...)
+                     [RRWG]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RBUG]
+                     (bbbb) Win in step 4
+              (www.)
+                     [RBYG]
+                     (bbbb) Win in step 4
+              (b...)
+                     [RRGW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [RBGU]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RBGG]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [RBGY]
+                     (bbbb) Win in step 4
+       (b...)
+              [GGWY]
+              (....)
+                     [BUUU]
+                     (bbbb) Win in step 4
+              (w...)
+                     [BYUU]
+                     (ww..)
+                            [UURW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [BUYU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BYYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [YURW]
+                     (bbww)
+                            [UYRW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YYRW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [UUWR]
+                     (....)
+                            [BYYY]
+                            (bbbb) Win in step 5
+                     (w...)
+                            [BYUY]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [BUYY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [BUUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [YUWR]
+                     (ww..)
+                            [UGUW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UYWR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YYWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YGUW]
+                     (bbw.)
+                            [UGGW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UGYW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YGYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [YGGW]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [UGWU]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GGGW]
+                     (bw..)
+                            [YGWU]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [UGWG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GGUW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GGYW]
+                     (bwww)
+                            [YGWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GGWU]
+                     (bb..)
+                            [YGWY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [UGWY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GGWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bw..)
+              [RYWR]
+              (....)
+                     [BUGU]
+                     (bbww)
+                            [BUUG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BUGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (w...)
+                     [BUGY]
+                     (ww..)
+                            [UBRU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [BRUU]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [BUYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [BRYU]
+                     (ww..)
+                            [GURW]
+                            (bbbb) Win in step 5
+                     (www.)
+                            [YBRY]
+                            (bbbb) Win in step 5
+                     (wwww)
+                            [UBRY]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [YBRU]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [BRUY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BRYY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [URRW]
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YRRW]
+                     (bbbb) Win in step 4
+              (b...)
+                     [BGGU]
+                     (ww..)
+                            [UBUR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [BYYG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [BYUG]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [BYGY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [BYGG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BYGU]
+                            (bbbb) Win in step 5
+              (bw..)
+                     [RGUW]
+                     (w...)
+                            [YBYR]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [UBYR]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YBUR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RGGW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BGYU]
+                     (....)
+                            [RRRW]
+                            (bbbb) Win in step 5
+                     (w...)
+                            [RURW]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [GYRW]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [RGYW]
+                            (bbbb) Win in step 5
+              (bb..)
+                     [GUWR]
+                     (bww.)
+                            [RGWG]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [RGWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [RGWY]
+                     (bw..)
+                            [URWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [RYRW]
+                     (wwww)
+                            [YRWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [RRWR]
+                     (bb..)
+                            [GYWR]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RUWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bww.)
+              [GBRY]
+              (www.)
+                     [BRGU]
+                     (bbww)
+                            [BRUG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BRGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [BRYG]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GRWR]
+                     (bw..)
+                            [RBUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RBYR]
+                     (bb..)
+                            [UBGR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [BRGY]
+                     (bwww)
+                            [YBGR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [GRRW]
+                     (bw..)
+                            [RBRU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GBGR]
+                     (bww.)
+                            [UBRG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GBUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GBYR]
+                     (bwww)
+                            [YBRG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GBRG]
+                     (bb..)
+                            [RBRY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GBRU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bwww)
+              [RBGR]
+              (bbww)
+                     [RBRG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bb..)
+              [BRBY]
+              (w...)
+                     [GGWR]
+                     (bww.)
+                            [UGRW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GGRW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UGWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [YGWR]
+                     (bbww)
+                            [YGRW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [BBGU]
+                     (bww.)
+                            [BGUG]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [BGGG]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [BGUU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BGGU]
+                            (bbbb) Win in step 5
+              (bw..)
+                     [BGYU]
+                     (bw..)
+                            [BUUR]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [BURU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BGYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BYRU]
+                     (bwww)
+                            [BUYR]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [BYYR]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [BYUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BBGU]
+                     (bw..)
+                            [BGYY]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [BGUY]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [BGGY]
+                            (bbbb) Win in step 5
+              (bbw.)
+                     [BYRY]
+                     (bbb.)
+                            [BURY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (bbw.)
+              [BRBY]
+              (w...)
+                     [RGWR]
+                     (bbww)
+                            [RGRW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RBRR]
+                     (bbb.)
+                            [UBRR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [YBRR]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BUGR]
+                     (bbww)
+                            [BURG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BYGR]
+                     (bbww)
+                            [BYRG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BRRU]
+                     (bbww)
+                            [BRUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BRYR]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BRRY]
+                     (bbbb) Win in step 4
+       (bbww)
+              [BRGR]
+              (bwww)
+                     [GBRR]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [BRRG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbb.)
+              [BGGY]
+              (b...)
+                     [BRRR]
+                     (bbb.)
+                            [BURR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BYRR]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BGRU]
+                     (bbww)
+                            [BGUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BGRG]
+                     (bbw.)
+                            [BGYR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BGGR]
+                     (bbw.)
+                            [BGRY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (bbbb) Win in step 2
+(bw..)
+       [BBGR]
+       (....)
+              [WYWY]
+              (ww..)
+                     [UWUW]
+                     (bbbb) Win in step 4
+              (www.)
+                     [YWUW]
+                     (bbww)
+                            [UWYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YWYW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WWUW]
+                     (bww.)
+                            [UWWU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WUUW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WWYW]
+                     (bww.)
+                            [YWWU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WUYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WWWU]
+                     (bbb.)
+                            [WUWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WYUW]
+                     (wwww)
+                            [UWWY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WYYW]
+                     (wwww)
+                            [YWWY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WWWY]
+                     (bbw.)
+                            [WYWU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WUWY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (w...)
+              [WGYW]
+              (w...)
+                     [UUWB]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [YUWB]
+                     (bw..)
+                            [RWWU]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UYWB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YYWB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [GWWU]
+                     (bb..)
+                            [RWWY]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UWWG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GWWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [GWWY]
+                     (bbww)
+                            [YWWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [UUBW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [UWRW]
+                     (wwww)
+                            [WRWU]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [YYBW]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YUBW]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [UYBW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [RWUW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RWRW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WWWG]
+                     (bw..)
+                            [YWRW]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [GWUW]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [WRWY]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WUWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [WYWG]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WRUW]
+                     (bbw.)
+                            [WWRW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [WURW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WRRW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WGWG]
+                     (ww..)
+                            [RWYW]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [WYRW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WGWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WGWY]
+                     (wwww)
+                            [GWYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WGUW]
+                     (bb..)
+                            [WRYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (ww..)
+              [GYWB]
+              (ww..)
+                     [RUBW]
+                     (bw..)
+                            [WGRW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [URBW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RRBW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [YRBW]
+                     (bb..)
+                            [UGBW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YGBW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WRWG]
+                     (wwww)
+                            [GWRW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [RWWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [GGBW]
+                     (bb..)
+                            [RYBW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GUBW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [RUWB]
+                     (bbww)
+                            [URWB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RRWB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [YRWB]
+                     (bb..)
+                            [UGWB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GYBW]
+                     (wwww)
+                            [YGWB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [GGWB]
+                     (bb..)
+                            [RYWB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GUWB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (www.)
+              [BGBW]
+              (www.)
+                     [GRWB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RGWB]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [GRBW]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [RGBW]
+                     (bbbb) Win in step 4
+       (b...)
+              [BWYU]
+              (w...)
+                     [WGGW]
+                     (bw..)
+                            [WRWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [WYWR]
+                     (bw..)
+                            [WUGW]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [WYGW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [WUWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [WBUY]
+                     (bbbb) Win in step 4
+              (b...)
+                     [WWWR]
+                     (bw..)
+                            [GWGW]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [WWGW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RWWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [YWWR]
+                     (bw..)
+                            [UWGW]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [YWGW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UWWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WBYY]
+                     (bb..)
+                            [WBUU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [BWUY]
+                     (wwww)
+                            [WBYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BWYY]
+                     (bb..)
+                            [BWUU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bw..)
+              [BYBU]
+              (....)
+                     [WGWR]
+                     (wwww)
+                            [RWGW]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [WRGW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [GWWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [WBRY]
+                     (bb..)
+                            [WBUG]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [WBYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [YBYB]
+                     (bb..)
+                            [UBUB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YBUB]
+                     (bbww)
+                            [UBYB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BWRY]
+                     (bww.)
+                            [WBRU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [BWUG]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [BWYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BUUB]
+                     (ww..)
+                            [YBBY]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [YBBB]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [UBBB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [BUYB]
+                     (wwww)
+                            [UBBY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BWRU]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BYYB]
+                     (ww..)
+                            [UBBU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [BUBB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [BYUB]
+                     (wwww)
+                            [YBBU]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [BUBY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BYBB]
+                     (bb..)
+                            [BUBU]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BYBY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bww.)
+              [BGBY]
+              (ww..)
+                     [RBUB]
+                     (bw..)
+                            [WBRG]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [UBRB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RBRB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [RBYB]
+                     (bb..)
+                            [GBUB]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YBRB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [GBYB]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BRUB]
+                     (wwww)
+                            [RBBU]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [BWRG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [RBBB]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [BURB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BRRB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [URYB]
+                     (w...)
+                            [GBBG]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [GBBU]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [GBBB]
+                            (bbbb) Win in step 5
+                     (bw..)
+                            [UBBG]
+                            (bbbb) Win in step 5
+                     (bww.)
+                            [BYRB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BRYB]
+                            (bbbb) Win in step 5
+              (bwww)
+                     [YBBG]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BRBB]
+                     (bbb.)
+                            [BRBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BGUB]
+                     (ww..)
+                            [RBBY]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [BUBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [BGYB]
+                     (wwww)
+                            [GBBY]
+                            (bbbb) Win in step 5
+                     (bwww)
+                            [BYBG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BBBG]
+                     (bb..)
+                            [BRBY]
+                            (bbbb) Win in step 5
+                     (bbw.)
+                            [BGBU]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [BGBB]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BGBG]
+                            (bbbb) Win in step 5
+              (bbbb) Win in step 3
+       (bwww)
+              [BGRB]
+              (wwww)
+                     [RBBG]
+                     (bbbb) Win in step 4
+              (bwww)
+                     [BRBG]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GBRB]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bb..)
+              [BWGY]
+              (ww..)
+                     [WBRR]
+                     (bbb.)
+                            [WBUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [WBYR]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WBGG]
+                     (bbb.)
+                            [WBGU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BWRR]
+                     (bbb.)
+                            [BWUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BWYR]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [WBGY]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BWGG]
+                     (bbb.)
+                            [BWGU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbw.)
+              [BGBY]
+              (www.)
+                     [GBGB]
+                     (bbb.)
+                            [UBGB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [YBGB]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [RBBR]
+                     (bbb.)
+                            [UBBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BUGB]
+                     (ww..)
+                            [YBBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [BYGB]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BRBR]
+                     (bbb.)
+                            [BUBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BGGB]
+                     (bw..)
+                            [BYBR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (bbww)
+              [BGBR]
+              (wwww)
+                     [RBGB]
+                     (bbbb) Win in step 4
+              (bwww)
+                     [BRGB]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GBBR]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbb.)
+              [BWGR]
+              (bbww)
+                     [WBGR]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+(bww.)
+       [BWBG]
+       (ww..)
+              [BRBY]
+              (w...)
+                     [WUWB]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [WYWB]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WRWB]
+                     (bbbb) Win in step 4
+       (www.)
+              [BBRY]
+              (w...)
+                     [WGWB]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [WBUB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WBYB]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WBRB]
+                     (bbbb) Win in step 4
+       (wwww)
+              [WBGB]
+              (bbbb) Win in step 3
+       (bw..)
+              [WRBW]
+              (www.)
+                     [YWWB]
+                     (bbb.)
+                            [UWWB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [RWWB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [WWWB]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WYBW]
+                     (bbb.)
+                            [WUBW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bww.)
+              [BBBR]
+              (w...)
+                     [GWWB]
+                     (bbbb) Win in step 4
+              (b...)
+                     [WGBW]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WBBY]
+                     (bbb.)
+                            [WBBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WBBB]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WBBR]
+                     (bbbb) Win in step 4
+       (bb..)
+              [BBRY]
+              (w...)
+                     [WWBW]
+                     (bbb.)
+                            [UWBW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (ww..)
+                     [RWBW]
+                     (bbb.)
+                            [YWBW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (bbw.)
+              [BBRY]
+              (w...)
+                     [GWBW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BWUB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BWYB]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BWRB]
+                     (bbbb) Win in step 4
+       (bbww)
+              [BWGB]
+              (wwww)
+                     [WBBG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbb.)
+              [BBBR]
+              (bb..)
+                     [BWBY]
+                     (bbb.)
+                            [BWBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BWBB]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BWBR]
+                     (bbbb) Win in step 4
+       (bbbb) Win in step 2
+(bb..)
+       [BWGR]
+       (w...)
+              [WYBY]
+              (w...)
+                     [UUWW]
+                     (bbbb) Win in step 4
+              (ww..)
+                     [YUWW]
+                     (bbbb) Win in step 4
+              (b...)
+                     [WUWW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [UYWW]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [YYWW]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WYWW]
+                     (bbbb) Win in step 4
+       (ww..)
+              [BGWY]
+              (ww..)
+                     [UBUW]
+                     (bbbb) Win in step 4
+              (www.)
+                     [YBUW]
+                     (bbww)
+                            [UBYW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [YBYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [RUWW]
+                     (bbw.)
+                            [WRWW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [URWW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RRWW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [RYWW]
+                     (b...)
+                            [UBWU]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [GUWW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YRWW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [GYWW]
+                     (bw..)
+                            [YBWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WBBU]
+                     (w...)
+                            [GGWW]
+                            (bbbb) Win in step 5
+                     (ww..)
+                            [UGWW]
+                            (bbbb) Win in step 5
+                     (b...)
+                            [WGWW]
+                            (bbbb) Win in step 5
+              (bbw.)
+                     [YBWY]
+                     (bb..)
+                            [YGWW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [UBWY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (www.)
+              [BGWY]
+              (ww..)
+                     [RBUW]
+                     (bbww)
+                            [UBRW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [RBRW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [RBYW]
+                     (bb..)
+                            [GBUW]
+                            (bbbb) Win in step 5
+                     (bbww)
+                            [YBRW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [GBYW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GRWW]
+                     (bw..)
+                            [RBWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [GBWU]
+                     (bbww)
+                            [UBWG]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [GBWG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [YBWG]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [RGWW]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [RBWY]
+                     (bbbb) Win in step 4
+              (bbww)
+                     [GBWY]
+                     (bbbb) Win in step 4
+       (wwww)
+              [GBRW]
+              (bwww)
+                     [RBWG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (b...)
+              [BGBY]
+              (....)
+                     [WWWW]
+                     (bbb.)
+                            [UWWW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (w...)
+                     [YWWW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BBUB]
+                     (bbb.)
+                            [BBUU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BBYB]
+                     (bbb.)
+                            [BBYU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BBBB]
+                     (bbb.)
+                            [BBBU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BBYY]
+                     (bbb.)
+                            [BBUY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BBBY]
+                     (bbbb) Win in step 4
+       (bw..)
+              [WBYU]
+              (w...)
+                     [GWWW]
+                     (bbb.)
+                            [RWWW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [BYWY]
+                     (bw..)
+                            [BUUW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (wwww)
+                     [BYUW]
+                     (bwww)
+                            [BUWY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (b...)
+                     [BBBG]
+                     (bbw.)
+                            [BBRB]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BBRY]
+                     (bb..)
+                            [BBUG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BYYW]
+                     (bw..)
+                            [BUWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [BYWU]
+                     (bwww)
+                            [BUYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BBRU]
+                     (bb..)
+                            [BBYG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+       (bww.)
+              [BGYW]
+              (ww..)
+                     [RBWR]
+                     (bbb.)
+                            [UBWR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (www.)
+                     [YBWR]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BBRG]
+                     (bw..)
+                            [BRWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BUWG]
+                     (www.)
+                            [GBGW]
+                            (bbbb) Win in step 5
+                     (wwww)
+                            [UBGW]
+                            (bbbb) Win in step 5
+                     (bb..)
+                            [BRWY]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bwww)
+                     [BYWG]
+                     (wwww)
+                            [YBGW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BRUW]
+                     (bbww)
+                            [BURW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BRRW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BGWG]
+                     (bw..)
+                            [BYRW]
+                            (bbbb) Win in step 5
+                     (bbb.)
+                            [BGWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbww)
+                     [BGWY]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BGUW]
+                     (bb..)
+                            [BRYW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bwww)
+              [BGWG]
+              (www.)
+                     [RBGW]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [GBWR]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BGRW]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BRWG]
+                     (bbbb) Win in step 4
+       (bb..)
+              [BYGU]
+              (b...)
+                     [BBBR]
+                     (bbb.)
+                            [BBRR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BBYR]
+                     (bbb.)
+                            [BBUR]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BBGB]
+                     (bbb.)
+                            [BBGG]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BBGY]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BBGU]
+                     (bbbb) Win in step 4
+       (bbw.)
+              [GYWU]
+              (ww..)
+                     [BGGW]
+                     (bbbb) Win in step 4
+              (www.)
+                     [BUGW]
+                     (bbbb) Win in step 4
+              (b...)
+                     [BRWR]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BUWR]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BYGW]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BYWR]
+                     (bbbb) Win in step 4
+       (bbww)
+              [BGWR]
+              (bwww)
+                     [BRGW]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbb.)
+              [BBGR]
+              (bbbb) Win in step 3
+(bbw.)
+       [BWWG]
+       (ww..)
+              [RBBY]
+              (bb..)
+                     [UBBW]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [YBBW]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [RBBW]
+                     (bbbb) Win in step 4
+       (www.)
+              [WBRY]
+              (bw..)
+                     [GBBW]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WBUW]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WBYW]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WBRW]
+                     (bbbb) Win in step 4
+       (wwww)
+              [WBGW]
+              (bbbb) Win in step 3
+       (bw..)
+              [RYBW]
+              (ww..)
+                     [UBWB]
+                     (bbbb) Win in step 4
+              (www.)
+                     [YBWB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [RBWB]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BUBW]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BRBW]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BYBW]
+                     (bbbb) Win in step 4
+       (bww.)
+              [WBRY]
+              (ww..)
+                     [BGBW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [GBWB]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [WBWU]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [WBWR]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [WBWY]
+                     (bbbb) Win in step 4
+       (bb..)
+              [BRBY]
+              (bw..)
+                     [BUWB]
+                     (bbbb) Win in step 4
+              (bww.)
+                     [BYWB]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BRWB]
+                     (bbbb) Win in step 4
+       (bbw.)
+              [BWRY]
+              (bw..)
+                     [BGWB]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BWUW]
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BWYW]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BWRW]
+                     (bbbb) Win in step 4
+       (bbww)
+              [BWGW]
+              (wwww)
+                     [WBWG]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+       (bbb.)
+              [BBRY]
+              (b...)
+                     [BWWU]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BWWR]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BWWY]
+                     (bbbb) Win in step 4
+       (bbbb) Win in step 2
+(bbww)
+       [BWBG]
+       (www.)
+              [WBWB]
+              (bbbb) Win in step 3
+       (bww.)
+              [WBBW]
+              (bbbb) Win in step 3
+       (bbw.)
+              [BWWB]
+              (bbbb) Win in step 3
+       (bbb.)
+              [BWBW]
+              (bbbb) Win in step 3
+(bbb.)
+       [BWWG]
+       (bw..)
+              [BBBR]
+              (bb..)
+                     [BBYW]
+                     (bbb.)
+                            [BBUW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BBRW]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BBBW]
+                     (bbbb) Win in step 4
+       (bww.)
+              [BBRY]
+              (b...)
+                     [WBWW]
+                     (bbb.)
+                            [UBWW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bw..)
+                     [RBWW]
+                     (bbb.)
+                            [YBWW]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BBGW]
+                     (bbbb) Win in step 4
+       (bwww)
+              [GBWW]
+              (bbbb) Win in step 3
+       (bb..)
+              [BBBR]
+              (bb..)
+                     [BBWY]
+                     (bbb.)
+                            [BBWU]
+                            (bbbb) Win in step 5
+                     (bbbb) Win in step 4
+              (bbw.)
+                     [BBWB]
+                     (bbbb) Win in step 4
+              (bbb.)
+                     [BBWR]
+                     (bbbb) Win in step 4
+       (bbw.)
+              [BRBY]
+              (b...)
+                     [BUWW]
+                     (bbbb) Win in step 4
+              (bw..)
+                     [BYWW]
+                     (bbbb) Win in step 4
+              (bb..)
+                     [BRWW]
+                     (bbbb) Win in step 4
+       (bbww)
+              [BGWW]
+              (bbbb) Win in step 3
+       (bbb.)
+              [BBWG]
+              (bb..)
+                     [BWWW]
+                     (bbbb) Win in step 4
+              (bbbb) Win in step 3
+(bbbb) Win in step 1
+Colours = 6, code length = 4, max steps = 5
