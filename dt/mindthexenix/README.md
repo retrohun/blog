@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../morebootromfun) | [Index](../../../../) | [Next]
+[Previous](../morebootromfun) | [Index](../../../../) | [Next](../cpmonc64)
 --- | --- | ---
 
 ---
@@ -71,5 +71,5 @@ Have fun!
 
 ---
 
-[Previous](../morebootromfun) | [Index](../../../../) | [Next]
+[Previous](../morebootromfun) | [Index](../../../../) | [Next](../cpmonc64)
 --- | --- | ---

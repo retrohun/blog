@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [CP/M on C64](dt/cpmonc64)
 - [Mind the Xenix!](dt/mindthexenix)
 - [More boot rom fun](dt/morebootromfun)
 - [SDK-85 fun - part 4](dt/sdk85funpart4)
