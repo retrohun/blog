@@ -53,6 +53,14 @@ from several limitations. CBM learned a lot when designed their C128 product
 line, which was capable to boot CP/M while keeping C64-compatibily.
 More stuff and info about this cartrdige is in the links section.
 
+## Update
+
+More pictures from the kit:
+
+- ![c64cpmkit.jpg](./c64cpmkit.jpg)
+- ![c64cpmfloppy.jpg](./c64cpmfloppy.jpg)
+- ![c64cpmkart.jpg](./c64cpmkart.jpg)
+
 ## Related links
 
 - [www.z80.eu/c64.html](http://www.z80.eu/c64.html)
