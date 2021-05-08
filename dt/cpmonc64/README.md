@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../mindthexenix) | [Index](../../../../) | [Next]
+[Previous](../mindthexenix) | [Index](../../../../) | [Next](../c64cartridgetestdrive)
 --- | --- | ---
 
 ---
@@ -69,5 +69,5 @@ More pictures from the kit:
 
 ## Have fun!
 
-[Previous](../mindthexenix) | [Index](../../../../) | [Next]
+[Previous](../mindthexenix) | [Index](../../../../) | [Next](../c64cartridgetestdrive)
 --- | --- | ---
