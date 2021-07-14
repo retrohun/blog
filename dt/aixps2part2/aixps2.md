@@ -3589,4 +3589,5 @@ megfelelően támogatott ISA-s hálózati kártya beállítása, sshd portolása
 kisebb ftp szerver beüzemelése, bilibemarkolva horkantva felébredés
 
 Utolsó módosítás: 2012.06.18.
-Mégutolsóbb mosdósítás(tm)((c) term bát űberexpert former kálig): 2021.07.14.
+
+Mégutolsóbb mosdósítás(tm)((c) term báj űberexpert former kálig): 2021.07.14.

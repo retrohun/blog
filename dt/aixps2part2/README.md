@@ -20,7 +20,7 @@ So glad to announce that it is online again, converted to github markdown:
 
 - [AIX PS/2 dual boot Bochs VM installation](./aixps2.md)
 
-Original source: (./aixps2.html)
+Original source: [aixps2.html](./aixps2.html)
 
 ## Remarks
 
