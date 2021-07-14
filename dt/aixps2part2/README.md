@@ -16,9 +16,11 @@ servers if the original [AIX PS2](https://en.wikipedia.org/wiki/IBM_AIX#IBM_PS/2
 installation procedure would be available online again.
 Despite it is *Hungarian only* and was created around 2010, became
 somewhat popular.
-So glad to announce that it is online again:
+So glad to announce that it is online again, converted to github markdown:
 
-- [AIX PS/2 dual boot Bochs VM installation](./aixps2.html)
+- [AIX PS/2 dual boot Bochs VM installation](./aixps2.md)
+
+Original source: (./aixps2.html)
 
 ## Remarks
 
