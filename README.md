@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [i8080 emulator in bash](dt/i8080emulatorupdate)
 - [C64 cartridge test drive](dt/c64cartridgetestdrive)
 - [CP/M on C64](dt/cpmonc64)
 - [Mind the Xenix!](dt/mindthexenix)

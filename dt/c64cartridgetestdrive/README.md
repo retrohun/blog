@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../cpmonc64) | [Index](../../../../) | [Next]
+[Previous](../cpmonc64) | [Index](../../../../) | [Next](../i8080emulatorupdate)
 --- | --- | ---
 
 ---
@@ -108,5 +108,5 @@ Have fun!
 
 ---
 
-[Previous](../cpmonc64) | [Index](../../../../) | [Next]
+[Previous](../cpmonc64) | [Index](../../../../) | [Next](../i8080emulatorupdate)
 --- | --- | ---
