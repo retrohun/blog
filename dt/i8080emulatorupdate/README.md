@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../c64cartridgetestdrive) | [Index](../../../../) | [Next]
+[Previous](../c64cartridgetestdrive) | [Index](../../../../) | [Next](../zeedoomautoinstaller)
 --- | --- | ---
 
 ---
@@ -27,5 +27,5 @@ Download updated emulator script and rom file here:
 
 ## Have fun!
 
-[Previous](../c64cartridgetestdrive) | [Index](../../../../) | [Next]
+[Previous](../c64cartridgetestdrive) | [Index](../../../../) | [Next](../zeedoomautoinstaller)
 --- | --- | ---
