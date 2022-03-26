@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../i8080emulatorupdate) | [Index](../../../../) | [Next]
+[Previous](../i8080emulatorupdate) | [Index](../../../../) | [Next](../randomupdates3)
 --- | --- | ---
 
 ---
@@ -265,5 +265,5 @@ Have fun!
 
 ---
 
-[Previous](../i8080emulatorupdate) | [Index](../../../../) | [Next]
+[Previous](../i8080emulatorupdate) | [Index](../../../../) | [Next](../randomupdates3)
 --- | --- | ---

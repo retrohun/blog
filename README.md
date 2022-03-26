@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [Random updates 3](dt/randomupdates3)
 - [zeeDoom autoinstaller](dt/zeedoomautoinstaller)
 - [i8080 emulator update](dt/i8080emulatorupdate)
 - [C64 cartridge test drive](dt/c64cartridgetestdrive)
