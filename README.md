@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [SDK-85 fun - part 5](dt/sdk85funpart5)
 - [Random updates 3](dt/randomupdates3)
 - [zeeDoom autoinstaller](dt/zeedoomautoinstaller)
 - [i8080 emulator update](dt/i8080emulatorupdate)

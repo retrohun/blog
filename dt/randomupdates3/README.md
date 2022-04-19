@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../zeedoomautoinstaller) | [Index](../../../../) | [Next]
+[Previous](../zeedoomautoinstaller) | [Index](../../../../) | [Next](../sdk85funpart5)
 --- | --- | ---
 
 ---
@@ -148,5 +148,5 @@ nickname "E.T." due to certain similarities :)
 
 ## Have fun!
 
-[Previous](../zeedoomautoinstaller) | [Index](../../../../) | [Next]
+[Previous](../zeedoomautoinstaller) | [Index](../../../../) | [Next](../sdk85funpart5)
 --- | --- | ---
