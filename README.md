@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [CoIdris Fun](dt/coidrisfun)
 - [SDK-85 fun - part 5](dt/sdk85funpart5)
 - [Random updates 3](dt/randomupdates3)
 - [zeeDoom autoinstaller](dt/zeedoomautoinstaller)

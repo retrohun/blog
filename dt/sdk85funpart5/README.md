@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../randomupdates3) | [Index](../../../../) | [Next]
+[Previous](../randomupdates3) | [Index](../../../../) | [Next](../coidrisfun)
 --- | --- | ---
 
 ---
@@ -69,5 +69,5 @@ Have fun!
 
 ---
 
-[Previous](../randomupdates3) | [Index](../../../../) | [Next]
+[Previous](../randomupdates3) | [Index](../../../../) | [Next](../coidrisfun)
 --- | --- | ---
