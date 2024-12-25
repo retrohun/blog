@@ -1,0 +1,54 @@
+[ Main a1 a2 a3 a4 b1 b2 b3 b4 c1 c2 c3 c4 i j;
+  print "^Fibonacci numbers, all up to 16 digits:^";
+  a4 = 1;
+  for ( : a1 < 9999: ) {
+    i = 0;
+    if (a1>0) {
+      print a1;
+      i = 1;
+    }
+    if (i + a2 > 0) {
+      for (j = 1000; i * j > a2; j = j / 10) {
+        print 0;
+      }
+      print a2;
+      i = 1;
+    }
+    if (i + a3 > 0) {
+      for (j = 1000; i * j > a3; j = j / 10) {
+        print 0;
+      }
+      print a3;
+      i = 1;
+    }
+    for (j = 1000; i * j > a4; j = j / 10) {
+      print 0;
+    }
+    print a4;
+    print "^";
+    c1 = a1;
+    c2 = a2;
+    c3 = a3;
+    c4 = a4;
+    a4 = a4 + b4;
+    if (a4 > 9999) {
+      a4 = a4 - 10000;
+      a3++;
+    }
+    a3 = a3 + b3;
+    if (a3 > 9999) {
+      a3 = a3 - 10000;
+      a2++;
+    }
+    a2 = a2 + b2;
+    if (a2 > 9999) {
+      a2 = a2 - 10000;
+      a1++;
+    }
+    a1 = a1 + b1;
+    b1 = c1;
+    b2 = c2;
+    b3 = c3;
+    b4 = c4;
+  }
+];

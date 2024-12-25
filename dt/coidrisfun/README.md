@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../sdk85funpart5) | [Index](../../../../) | [Next]
+[Previous](../sdk85funpart5) | [Index](../../../../) | [Next](../configsysgameandinfocom)
 --- | --- | ---
 
 ---
@@ -74,5 +74,5 @@ Covers short history, install kits, comprehensive scanned PDF documents and so o
 
 ## Have fun!
 
-[Previous](../sdk85funpart5) | [Index](../../../../) | [Next]
+[Previous](../sdk85funpart5) | [Index](../../../../) | [Next](../configsysgameandinfocom)
 --- | --- | ---

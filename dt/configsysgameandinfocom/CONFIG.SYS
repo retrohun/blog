@@ -1,0 +1,166 @@
+[menu]
+submenu=a2, a2
+submenu=b2, b2
+submenu=c2, c2
+submenu=menu, _
+submenu=menu, _B | B | B
+submenu=menu, ---+---+---
+submenu=menu, _  |   |
+submenu=menu, ---+---+---
+submenu=menu, _W | W | W
+
+[a2]
+submenu=a2bxa2, bxa2
+submenu=a2b2, b2
+submenu=a2c2, c2
+submenu=a2, _
+submenu=a2, _B |   | B
+submenu=a2, ---+---+---
+submenu=a2, _B |   |
+submenu=a2, ---+---+---
+submenu=a2, _  | W | W
+
+[b2]
+submenu=b2a2, a2
+submenu=b2axb2, axb2
+submenu=b2cxb2, cxb2
+submenu=b2c2, c2
+submenu=b2, _  | B | B
+submenu=b2, ---+---+---
+submenu=b2, _  | B |
+submenu=b2, ---+---+---
+submenu=b2, _W |   | W
+
+[c2]
+submenu=c2a2, a2
+submenu=c2b2, b2
+submenu=c2bxc2, bxc2
+submenu=c2, _
+submenu=c2, _B |   | B
+submenu=c2, ---+---+---
+submenu=c2, _  |   | B
+submenu=c2, ---+---+---
+submenu=c2, _W | W |
+
+[a2bxa2]
+submenu=a2bxa2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=a2bxa2, _
+submenu=a2bxa2, _B |   |
+submenu=a2bxa2, ---+---+---
+submenu=a2bxa2, _W |   | B
+submenu=a2bxa2, ---+---+---
+submenu=a2bxa2, _  |   | W
+
+[a2b2]
+submenu=a2b2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=a2b2, _
+submenu=a2b2, _B |   | B
+submenu=a2b2, ---+---+---
+submenu=a2b2, _  | W |
+submenu=a2b2, ---+---+---
+submenu=a2b2, _B |   | W
+
+[a2c2]
+submenu=a2c2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=a2c2, _
+submenu=a2c2, _B |   | B
+submenu=a2c2, ---+---+---
+submenu=a2c2, _  |   | W
+submenu=a2c2, ---+---+---
+submenu=a2c2, _  | B |
+
+[b2a2]
+submenu=b2a2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=b2a2, _
+submenu=b2a2, _  | B | B
+submenu=b2a2, ---+---+---
+submenu=b2a2, _W |   |
+submenu=b2a2, ---+---+---
+submenu=b2a2, _  |   | B
+
+[b2axb2]
+submenu=b2axb2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=b2axb2, _
+submenu=b2axb2, _  | B |
+submenu=b2axb2, ---+---+---
+submenu=b2axb2, _  | W | B
+submenu=b2axb2, ---+---+---
+submenu=b2axb2, _  |   | W
+
+[b2cxb2]
+submenu=b2cxb2a2, a2
+submenu=b2cxb2, _
+submenu=b2cxb2, _
+submenu=b2cxb2, _
+submenu=b2cxb2, _  | B |
+submenu=b2cxb2, ---+---+---
+submenu=b2cxb2, _  | W | B
+submenu=b2cxb2, ---+---+---
+submenu=b2cxb2, _W |   |
+
+[b2c2]
+submenu=b2c2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=b2c2, _
+submenu=b2c2, _  | B | B
+submenu=b2c2, ---+---+---
+submenu=b2c2, _  |   | W
+submenu=b2c2, ---+---+---
+submenu=b2c2, _B |   |
+
+[b2cxb2a2]
+submenu=b2cxb2a2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=b2cxb2a2, _
+submenu=b2cxb2a2, _  | B |
+submenu=b2cxb2a2, ---+---+---
+submenu=b2cxb2a2, _W | W |
+submenu=b2cxb2a2, ---+---+---
+submenu=b2cxb2a2, _  |   | B
+
+[c2a2]
+submenu=c2a2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=c2a2, _
+submenu=c2a2, _B |   | B
+submenu=c2a2, ---+---+---
+submenu=c2a2, _W |   |
+submenu=c2a2, ---+---+---
+submenu=c2a2, _  | B |
+
+[c2b2]
+submenu=c2b2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=c2b2, _
+submenu=c2b2, _B |   | B
+submenu=c2b2, ---+---+---
+submenu=c2b2, _  | W |
+submenu=c2b2, ---+---+---
+submenu=c2b2, _W |   | B
+
+[c2bxc2]
+submenu=c2bxc2, CONFIG.SYS wins!
+submenu=menu, New game
+submenu=common, Quit to COMMAND.COM
+submenu=c2bxc2, _
+submenu=c2bxc2, _  |   | B
+submenu=c2bxc2, ---+---+---
+submenu=c2bxc2, _B |   | W
+submenu=c2bxc2, ---+---+---
+submenu=c2bxc2, _W |   |
+
+[common]
