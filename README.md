@@ -7,6 +7,7 @@ Some rights reserved! Vintage technology preserved.
 
 ## Entries
 
+- [i8080 emulator - Zorkless](dt/i8080emulatorzorkless)
 - [Config.sys game and Infocom](dt/configsysgameandinfocom)
 - [CoIdris Fun](dt/coidrisfun)
 - [SDK-85 fun - part 5](dt/sdk85funpart5)

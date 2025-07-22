@@ -4,7 +4,7 @@ Some rights reserved! Vintage technology preserved.
 
 ---
 
-[Previous](../coidrisfun) | [Index](../../../../) | [Next]
+[Previous](../coidrisfun) | [Index](../../../../) | [Next](../i8080emulatorzorkless)
 --- | --- | ---
 
 ---
@@ -274,5 +274,5 @@ Have fun and Merry Christmas to you!
 
 ---
 
-[Previous](../coidrisfun) | [Index](../../../../) | [Next]
+[Previous](../coidrisfun) | [Index](../../../../) | [Next](../i8080emulatorzorkless)
 --- | --- | ---
