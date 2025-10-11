@@ -217,7 +217,7 @@ case $((M[PC++])) in
 58)((A=M[M[PC++]|(M[PC++]<<8)]));; # LDAX nnnn
 59)((SP=SP+65535));; # DCX SP
 60)((A=A+1&255,F=(F&0x3B)|P[A]|(A&15?0:16)));; # INR A aux
-61)((F=L&15?0:16,A=A+255&255,F=(F&0x3B)|P[A]));; # DCR A aux
+61)((F=A&15?0:16,A=A+255&255,F=(F&0x3B)|P[A]));; # DCR A aux
 62)((A=M[PC++]));; # MVI A,nn
 63)((F^=1));; # CMC
 
